@@ -1,0 +1,20 @@
+<% if (theme.links1){ %>
+  <div class="widget-wrap">
+    <h3 class="widget-title"><%= __('links') %></h3>
+    <div class="widget widget_athemes_social_icons">
+        <!--
+    	<ul class="clearfix widget-social-icons">   
+    	<% Object.keys(theme.links).forEach(function(key) { %>
+   			<li><a href="<%= theme.links[key] %>" title="<%=key.trim()%>"><i class="fa fa-<%= key.toLowerCase() %>" aria-hidden="true"></i></a></li> 
+
+   		<% }) %>
+   		</ul>
+        -->
+        <ul>   		
+   		<li><i class="fas fa-link"></i><a href="http://www.latelee.org" target="_blank">李迟的技术主页</a></li>
+        <li><i class="fas fa-link"></i><a href="https://i.latelee.org" target="_blank">李迟的个人主页</a></li>
+        <li><i class="fas fa-child"></i><a href="https://www.lidachui.cn" target="_blank">李大锤的个人主页</a></li>
+		</ul>
+    </div>
+  </div>
+<% } %>

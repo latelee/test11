@@ -1,0 +1,3 @@
+<% if (!is_current("about", false)){ %>
+		<span class="ico-calendar"> </span><time datetime="<%= moment(post.date).format() %>" itemprop="datePublished"><%= date(post.date, config.date_format) %></time>
+<% } %>

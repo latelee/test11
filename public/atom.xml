@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一叶漂零笑</title>
+  
+  <subtitle>李迟的个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.latelee.org/"/>
+  <updated>2020-06-16T02:57:41.713Z</updated>
+  <id>http://blog.latelee.org/</id>
+  
+  <author>
+    <name>Late Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一些往事的片段</title>
+    <link href="http://blog.latelee.org/life/%E4%B8%80%E4%BA%9B%E5%BE%80%E4%BA%8B%E7%9A%84%E7%89%87%E6%AE%B5.html"/>
+    <id>http://blog.latelee.org/life/一些往事的片段.html</id>
+    <published>2019-11-13T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>钢笔使用感觉</title>
+    <link href="http://blog.latelee.org/life/%E9%92%A2%E7%AC%94%E4%BD%BF%E7%94%A8%E6%84%9F%E8%A7%89.html"/>
+    <id>http://blog.latelee.org/life/钢笔使用感觉.html</id>
+    <published>2019-11-07T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录一下钢笔使用感受。  </p><a id="more"></a><p>要求：<br>旋转笔帽，因为有的笔用久了，插不稳。可能是价格原因。  </p><h2 id="国产"><a href="#国产" class="headerlink" title="国产"></a>国产</h2><p>品控不太行，买了几支英雄，漏墨。模仿凌美的，手感不行（不管是英雄还是金豪）。    </p><h2 id="凌美"><a href="#凌美" class="headerlink" title="凌美"></a>凌美</h2><p>狩猎者 EF 黑色。<br>非常顺滑，出水好，不易出锋，笔划较粗，比日系的MF还粗。<br>用了近6年，笔帽插不稳。  </p><h2 id="百乐"><a href="#百乐" class="headerlink" title="百乐"></a>百乐</h2><p>78G+：<br>F：有点细。<br>M：感觉比前面凌美EF还细。<br>78G+系列写起来比较顺滑。  </p><h2 id="写乐"><a href="#写乐" class="headerlink" title="写乐"></a>写乐</h2><p>大型21K：MF，阻尼大，要用力，写久手累。写起来感觉手腕有东西挡着，想推推不了。<br>（标准版可能短，握感不好）<br>大型21K： M，据说是特殊打磨过。使用起来比MF滑一些，但还是有阻力，出水大。可慢写出锋。  </p><p>有评价写乐的笔尖不耐磨。  </p><h2 id="白金"><a href="#白金" class="headerlink" title="白金"></a>白金</h2><p>教堂蓝，F，刮纸，体验不好。  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录一下钢笔使用感受。  &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新公司上班第一天</title>
+    <link href="http://blog.latelee.org/work/%E6%96%B0%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9.html"/>
+    <id>http://blog.latelee.org/work/新公司上班第一天.html</id>
+    <published>2019-10-31T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来约好是下周一入职的，但那时已经是4号了，不好算日子。于是跟领导说1号正式上班。一来熟悉环境，办入职手续，了解任务；二来利用周末时间研究一下任务。——当然这是借口  </p><a id="more"></a><p>早上8点多出门，因为担心高峰期，电车电池续航能力不行，要慢慢骑，所以就早点出门，到公司时，还有20分钟才到9点钟。  </p><p>领导未到，安排了一个同事分配工位和电脑，由于我电脑有环境，所以也带好了。不过，还是在分配的电脑上安装软件，到10点多，领导到后，办手续，给学位证、毕业证、身份证，离职证明（由于离职证明在后面可能的讨薪中用到，要回了原件）。接着给合同，我看了两眼就签字画押了。  </p><p>后来细看，才知道试用期工资比原来约好的少2千块，当时也没确认，或许领导说了我没听清楚。不过事到如今，也没什么办法了。  </p><p>中午和技术总监P总去吃饭，走了2个街口，本来想吃粉的，后来P总说有家烧鸭饭不错，就去吃了。  </p><p>回来后，已经1点多了，总监说公司有微波炉，后面可能会带饭来公司吃，这样省钱。  </p><p>今天基本没做成什么事，下午老大让我提供gitee账号，给了我2个仓库，我下载看了一下，只有部分代码，不是完整的，分析dll后知道了一些接口，不过怎么用还不知道。  </p><p>下午近下班时，老大找我聊一下后续的任务。大概聊了半个小时，一是学习C#，二是学Java和Golang，我挑Golang先学。  </p><p>骑车回去时，天已经全黑了，凉风吹过，竟有点伤感。头上一弯新月高高挂在天上，跟着我回家。  </p><p>以后每天晚上最早也要6点40分才能回到家，大锤来南宁后，基本是老婆自己煮饭，和小孩一起吃。我只有周末2天可以陪着一起吃饭。至于陪小孩的时间，应该没有多大的影响。  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本来约好是下周一入职的，但那时已经是4号了，不好算日子。于是跟领导说1号正式上班。一来熟悉环境，办入职手续，了解任务；二来利用周末时间研究一下任务。——当然这是借口  &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工作" scheme="http://blog.latelee.org/categories/work/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>与老班长聚会</title>
+    <link href="http://blog.latelee.org/life/%E4%B8%8E%E8%80%81%E7%8F%AD%E9%95%BF%E8%81%9A%E4%BC%9A.html"/>
+    <id>http://blog.latelee.org/life/与老班长聚会.html</id>
+    <published>2019-10-22T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>送完老妈回去之后，回到租房，写了几行代码，老婆问我什么时候收拾房间。我说现在，于是就去收拾玩具，顺便打扫。</p><a id="more"></a><p>正干着活，初中的老班长来电话了，他到南宁设计院出差，问我有没有空见个面，恰好不上班就答应了。可惜天公不作美，下起了雨。不过依然去朝阳广场那边见面。</p><p>老班长已经是领导模样了，从衣着和言行可以看出。随后到到KFC点了东西边吃边聊。主要围绕大家的工作和生活。</p><p>老班长主要做实施，长年到外地出差，当初一年也没回几次家，不过现在很多年了，慢慢上道了，带了几个徒弟，空闲时间也多了。接着聊到家庭，我也说了我的情况，因为我基本上不对外人说的，但十几年同学，还是说了出来，当然，更多的是矛盾和选择。老班长问我没有兴趣去他的行业。我说想，但要考虑很多东西。</p><p>现在已经决定老妈不带小孩了，如果我也经常出差，老婆一个人带2个小孩，肯定是吃不消了，虽然这个事之前也提过，老婆也说宁愿累，也不愿和老人在一起得忧郁症。话是这样说，但不到那个时候，谁也不保证会如何。在个人意愿上我肯定没问题，但想到家庭，我又犹豫了。老班长也看出来了，但没办法，如果是前几年还是敢直接下决心的，现在已经怕了。</p><p>那个汉堡包我吃不下，就打包回去，老婆吃了一点，剩下的我就吃完了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;送完老妈回去之后，回到租房，写了几行代码，老婆问我什么时候收拾房间。我说现在，于是就去收拾玩具，顺便打扫。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>李大锤成长记：大锤回老家</title>
+    <link href="http://blog.latelee.org/child/%E6%9D%8E%E5%A4%A7%E9%94%A4%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%9A%E5%A4%A7%E9%94%A4%E5%9B%9E%E8%80%81%E5%AE%B6.html"/>
+    <id>http://blog.latelee.org/child/李大锤成长记：大锤回老家.html</id>
+    <published>2019-10-22T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天老妈带大锤回老家了。</p><a id="more"></a><p>昨天收拾东西，老婆坚持带鞋子和袜子，老妈说不用，最后决定只带袜子。如果冷了，穿袜子加凉鞋就行了。不要拖太多东西回去。</p><p>早上7点多老妈起床煮粥去买菜，因为昨晚2点才睡觉，所以8点起床。煮了鸡蛋，老婆说不能让大锤吃太多鸡蛋，有点咳嗽，我就跟老妈说。同时，老婆一直在唠叨车上注意安全，不要和陌生人说话，上厕所要带着小孩，等等。我也一一回给老妈，当然不是直接用原话。  </p><p>10点钟骑电车出去，老妈背了一个包，装她的衣服，带了一个袋子，装大锤的衣服，还有一个袋子是饭和鸡蛋，开水等。到安检时，老妈带的染发剂被查出来拿走了，并且要登记身份证，我就拿我的身份证登记。  </p><p>因为昨天带大锤去火车站拿票了，所以直到到候车室等，期间遇到几个老乡，老妈和他们聊天。对方问是否在南宁买房了，回答租房之后，心里还是稍微沉了一下，是的，现在基本上除了孩子就是房子的事了。检票之后我就回去了。此时天阴沉，还好，只是中午下雨了，傍下午就停止了。</p><p>到了晚上7点老妈打电话说已经回到家在吃饭了，大锤依然不说话，老妈说叫他也不应，只是笑。  </p><p>现在基本上确认了家庭的矛盾了：那就是老妈和老婆不能同时生活在一起。因为大家曾经生活的区域不同，成长环境不同，接触东西不同，理念不同而又不沟通，各有各法——不管是育儿还是日常生活。起初想着老妈带小孩，夫妻都去上班，多挣点钱。现在回顾，这本身就是错误的选择。其实大家都没有错，我不认为老人故意叫药水给小孩喝，也不认为老婆故意打小孩，只是大家都过得不开心，这个情况没有赢家。  </p><p>回去之前，我跟老爸通话，说了这个情况，我说的意思是让小孩在家里住一段日子，然后我回去带小孩上南宁。之后，小孩就在南宁，让老妈一个人在家休息。——其实，老妈在家也是无事，不如和孙子一起居住，只是这种机会基本很少了。</p><p>后来的日子我也能预想到，就是老婆独自带小孩，如果有什么事，我又得请假，因为要照顾家庭。这样，老婆辛苦，我也辛苦。但我在家中不能说出来，更不能表现出来。</p><p>其实我也知道小孩跟着父母生活，对小孩的培育是有极大帮助的。只是，如果可能辛苦几年，熬几年，后面的日子会好一些，而不是一直这样子生活。  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天老妈带大锤回老家了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="养娃记" scheme="http://blog.latelee.org/categories/child/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子over：离职</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90over%EF%BC%9A%E7%A6%BB%E8%81%8C.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子over：离职.html</id>
+    <published>2019-10-13T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>下午，正在研究如何在docker中生成免费证书，行政在微信上叫我来一下。</p><a id="more"></a><p>原来是去拿离职手续的文件。有工作交接单，解除劳动合同证明书，离职手续交接清单，员工离职审批表。</p><p>逐个文件写好，为了表示诚意，交接内容写了很多，我知道没人看，但也写了。</p><p>之后交给同事签字，再交给行政，按手印。问工资的事，行政说不懂要我自己去问会计，但在对面工位的会计明显不在公司，于是作罢。接着问社保，回复说会帮交的。  </p><p>到17点多，行政将盖了章的解除劳动合同证明书给我，接着开始退微信群，删除后台web账号，删除服务器的ssh允许主机IP，然后跟同事说了代码仓库的事，预计明晚再删除。  </p><p>由于之前已经慢慢将东西拿走了，所以剩下的东西不多。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;下午，正在研究如何在docker中生成免费证书，行政在微信上叫我来一下。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试一家电力公司</title>
+    <link href="http://blog.latelee.org/life/%E9%9D%A2%E8%AF%95%E4%B8%80%E5%AE%B6%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8.html"/>
+    <id>http://blog.latelee.org/life/面试一家电力公司.html</id>
+    <published>2019-10-08T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>节前，一家电力公司HR加我微信，询问有无兴趣到他们公司面试，我当然有兴趣。于是约节前，但节前领导没空，就等节后。</p><a id="more"></a><p>节后上班第一天，HR约了明天下午2点半面试，跟HR扯了半天，对方的结论是：明天上午领导不在，下午在，后面日期不好定。我方的结论是：上午面试比较方便，后面日期也没问题。因为对方公司在西北边，我租在西边，而上班在东边，没事一般不跑着玩。  </p><p>最后我妥协了，跟HR说明天2点半准时到公司面试。  </p><p>下午请假半天，先回去吃了粉，陪大锤玩一会，就向北出发了。从友爱路走到安阳路，路过高新路，创业路，振兴路，到了高科路，拐弯进了科技图。</p><p>此时，电车差不多没电了。楼下充电的位置满了，又没带硬币，周边看了没换硬币的地方，又不能手机扫码充电，就先放着车。在楼下等了十来分钟，就坐电梯到4楼。</p><p>进门，表明来意，前台让我坐沙发，过几分钟后，HR叫我到会议室，说公司的福利，业务情况，再拉拉家常：家里几口人，怎么来公司的。随后让我做2份笔试，一是数据库，一是JAVA，我瞄了几眼，除部分英文外，其它的看到是什么东西，但就是不懂是什么东西。于是如实和HR说，接着问有没有Linux或嵌入式的试题，我可以做。这也是表明一个求职者的心态。HR说回去请示一下领导。  </p><p>坐了一会，领导来了，聊了一些业务相关的东西，我也尽自己所能表现。聊的过程还可以，双方都有好感，问到离职原因，我说6月份的工资还没发，所以决定跑路，领导对此表示不解和无奈并保证公司准时发工资。最后讨论薪资，我开了一个数，领导砍了2成，说在他范围内只能开这个价。而试用期月薪还要再砍2成。</p><p>我没当场表态，但作为一个工作九年多的技术人员来讲，这个价位太低了，我还没沦落到那个地步。  </p><p>随后慢慢骑车，即将回到西大门口时，电车已经实在动不了，就到路边修电车店铺充了10分钟，花了2块钱，骑回去后，车又没电了，电瓶被偷后，换的是不怎么新的电瓶，所以用了一年多就老化了。哪天要去换个电瓶才行。  </p><p>总结一下：<br>公司有一个科技园，但里面的公司十分多。只是离市区太远了。<br>包午餐，国家假日正常放。<br>试用期无保险，转正交五险，没一金。似乎大部分公司都如此。<br>开发人员少，才2、3个，气氛起不来。  </p><p>钱少，事多，因此，还是不去为妙。  </p><p>李迟 2019.10.09  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;节前，一家电力公司HR加我微信，询问有无兴趣到他们公司面试，我当然有兴趣。于是约节前，但节前领导没空，就等节后。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019年国庆节记事</title>
+    <link href="http://blog.latelee.org/%E9%80%A2%E5%B9%B4%E8%BF%87%E8%8A%82/2019%E5%B9%B4%E5%9B%BD%E5%BA%86%E8%8A%82%E8%AE%B0%E4%BA%8B.html"/>
+    <id>http://blog.latelee.org/逢年过节/2019年国庆节记事.html</id>
+    <published>2019-10-07T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>国庆七日假期在南宁度过。主要陪小孩玩。本来还想写几章电子书的，但精力时间有限，只写几百个字。</p><a id="more"></a><p>各种事：<br>大锤不吃饭，</p><p>1：<br>昨天就跟大锤讲要早起，因为想去看升国旗，但看了往年新闻，四大班子，有关部门领导，周边群众，已经足够多人了，有的人6点多去抢位置。加上大锤8点半才起床，于是决定去图书馆。图书馆的人不如平时，也有很多人在写试题，开电脑写文章。我们去了低龄图书馆，在里面陪大锤看绘本，到了10点钟，看国庆阅兵，不过大锤看几分就要跑去一边玩。  </p><p>2：<br>早上想去玩，但没去。</p><p>3、</p><p>去明秀公园玩，碰到昌哥</p><p>4：<br>去万城象。</p><p>5：<br>三人去秀厢菜市<br>叫煤气。</p><p>6：<br>上午陪大锤去超市。</p><p>晚买酒。</p><p>7：<br>三人上午去人民公园。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;国庆七日假期在南宁度过。主要陪小孩玩。本来还想写几章电子书的，但精力时间有限，只写几百个字。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="逢年过节" scheme="http://blog.latelee.org/categories/%E9%80%A2%E5%B9%B4%E8%BF%87%E8%8A%82/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《金刚经》英文和中文</title>
+    <link href="http://blog.latelee.org/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/%E3%80%8A%E9%87%91%E5%88%9A%E7%BB%8F%E3%80%8B%E8%8B%B1%E6%96%87%E5%92%8C%E4%B8%AD%E6%96%87.html"/>
+    <id>http://blog.latelee.org/人文社科/《金刚经》英文和中文.html</id>
+    <published>2019-10-01T14:14:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>《金刚经》英文版及中文版本。来自<a href="https://github.com/HanYouyang/Diamond-Sutra" target="_blank" rel="noopener">github</a>。</p><a id="more"></a>  <h1 id="Diamond-Sutra-English-and-Chinese"><a href="#Diamond-Sutra-English-and-Chinese" class="headerlink" title="Diamond Sutra - English and Chinese"></a>Diamond Sutra - English and Chinese</h1><h1 id="金刚经"><a href="#金刚经" class="headerlink" title="金刚经"></a>金刚经</h1><h2 id="Chapter-01"><a href="#Chapter-01" class="headerlink" title="Chapter 01"></a>Chapter 01</h2><p>This is what I heard.</p><p>At one time the Buddha was staying in the Jeta Grove, near the city of Sravasti.</p><p>With him there was a community of 1,250 venerable monks and devoted disciples.</p><p>One day before dawn, the Buddha clothed himself, and along with his disciples took up his alms bowl and entered the city to beg for food door to door, as was his custom.</p><p>After he had returned and eaten, he put away his bowl and cloak, bathed his feet, and then sat with his legs crossed and body upright upon the seat arranged for him.</p><p>He began mindfully fixing his attention in front of himself, while many monks approached the Buddha, and showing great reverence, seated themselves around him.</p><h2 id="法会因由分第一"><a href="#法会因由分第一" class="headerlink" title="法会因由分第一"></a>法会因由分第一</h2><p>如是我闻：</p><p>一时佛在舍卫国祈树给孤独园，与大比丘众千二百五十人俱。尔时世尊，食时着衣持钵，入舍卫大城乞食。于其城中次第乞已，还至本处，饭食讫，收衣钵，洗足已，敷座而坐。</p><h2 id="Chapter-02"><a href="#Chapter-02" class="headerlink" title="Chapter 02"></a>Chapter 02</h2><p>After a time a most venerable monk named Subhuti, who was sitting in the congregation, rose from his seat.</p><p>He uncovered his right shoulder, placed his right knee on the ground, and as he joined his palms together he respectfully bowed and then addressed the Buddha:</p><p>“Most Honored One, It is truly majestic how much knowledge and wisdom your monks and disciples have been given through your most inspired teachings! It is remarkable that you look after our welfare so selflessly and so completely.”</p><p>“Most Honored One, I have a question to ask you. If sons and daughters of good families want to develop the highest, most fulfilled and awakened mind, if they wish to attain the Highest Perfect Wisdom, what should they do to help quiet their drifting minds and help subdue their craving thoughts?”</p><p>The Buddha then replied:</p><p>“So it is as you say, Subhuti. Monks and disciples have been favored with the highest favor by the Buddha, the monks and disciples have been instructed with the highest instruction by the Buddha. The Buddha is constantly mindful of the welfare of his followers. Listen carefully with your full attention, and I will speak to your question.”</p><p>“If sons and daughters of good families want to develop the highest, most fulfilled and awakened mind, if they wish to attain the Highest Perfect Wisdom and quiet their drifting minds while subduing their craving thoughts, then they should follow what I am about to say to you. Those who follow what I am about to say here will be able to subdue their discriminative thoughts and craving desires. It is possible to attain perfect tranquility and clarity of mind by absorbing and dwelling on the teachings I am about to give.”</p><p>Then the Buddha addressed the assembly.</p><h2 id="善现启请分第二"><a href="#善现启请分第二" class="headerlink" title="善现启请分第二"></a>善现启请分第二</h2><p>时长老须菩提，在大众中，即从座起，偏袒右肩，右膝着地，合掌恭敬而白佛言：“希有，世尊，如来善护念诸菩萨，善付嘱诸菩萨。世尊，善男子、善女人发阿耨多罗三藐三菩提心，云何应住？云何降伏其心？”</p><p>佛言：“善哉，善哉，须菩提，如汝所说，如来善护念诸菩萨，善付嘱诸菩萨。汝今谛听，当为汝说。善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是降伏其心。”</p><p>“唯然，世尊，愿乐欲闻。”</p><h2 id="Chapter-03"><a href="#Chapter-03" class="headerlink" title="Chapter 03"></a>Chapter 03</h2><p>“All living beings, whether born from eggs, from the womb, from moisture, or spontaneously; whether they have form or do not have form; whether they are aware or unaware, whether they are not aware or not unaware, all living beings will eventually be led by me to the final Nirvana, the final ending of the cycle of birth and death. And when this unfathomable, infinite number of living beings have all been liberated, in truth not even a single being has actually been liberated.”</p><p>“Why Subhuti? Because if a disciple still clings to the arbitrary illusions of form or phenomena such as an ego, a personality, a self, a separate person, or a universal self existing eternally, then that person is not an authentic disciple.”</p><h2 id="大乘正宗分第三"><a href="#大乘正宗分第三" class="headerlink" title="大乘正宗分第三"></a>大乘正宗分第三</h2><p>佛告须菩提：”诸菩萨摩诃萨，应如是降伏其心：若有一切众生之类，若卵生，若胎生，若湿生，若化生，若有色，若无色，若有想，若无想，若非有想非无想，我皆令入无余涅槃而灭度之。如是灭度无量无数无边众生，实无众生得灭度者。何以故？须菩提，若菩萨有我相、人相、众生相、寿者相，即非菩萨。“</p><h2 id="Chapter-04"><a href="#Chapter-04" class="headerlink" title="Chapter 04"></a>Chapter 04</h2><p>“Furthermore, Subhuti, in the practice of compassion and charity a disciple should be detached. That is to say, he should practice compassion and charity without regard to appearances, without regard to form, without regard to sound, smell, taste, touch, or any quality of any kind. Subhuti, this is how the disciple should practice compassion and charity. Why? Because practicing compassion and charity without attachment is the way to reaching the Highest Perfect Wisdom, it is the way to becoming a living Buddha.”</p><p>“Subhuti, do you think that you can measure all of the space in the Eastern Heavens?”</p><p>“No, Most Honored One. One cannot possibly measure all of the space in the Eastern Heavens.”</p><p>“Subhuti, can space in all the Western, Southern, and Northern Heavens, both above and below, be measured?”</p><p>“No, Most Honored One. One cannot possibly measure all the space in the Western, Southern, and Northern Heavens.”</p><p>“Well, Subhuti, the same is true of the merit of the disciple who practices compassion and charity without any attachment to appearances, without cherishing any idea of form. It is impossible to measure the merit they will accrue. Subhuti, my disciples should let their minds absorb and dwell in the teachings I have just given.”</p><h2 id="妙行无住分第四"><a href="#妙行无住分第四" class="headerlink" title="妙行无住分第四"></a>妙行无住分第四</h2><p>“复次，须菩提，菩萨于法应无所住，行于布施。所谓不住色布施，不住声、香、味、触、法布施。须菩提，菩萨应如是布施，不住于相。何以故？若菩萨不住相布施，其福德不可思量。须菩提，于意云何？东方虚空可思量不？”</p><p>“不也，世尊。”</p><p>“须菩提，南西北方，四维上下虚空可思量不？”</p><p>“不也，世尊。”</p><p>“须菩提，菩萨无住相布施，福德亦复如是不可思量。须菩提，菩萨应如所教住。”</p><h2 id="Chapter-05"><a href="#Chapter-05" class="headerlink" title="Chapter 05"></a>Chapter 05</h2><p>“Subhuti, what do you think? Can the Buddha be recognized by means of his bodily form?”</p><p>“No, Most Honored One, the Buddha cannot be recognized by means of his bodily form. Why? Because when the Buddha speaks of bodily form, it is not a real form, but only an illusion.”</p><p>The Buddha then spoke to Subhuti: “All that has a form is illusive and unreal. When you see that all forms are illusive and unreal, then you will begin to perceive your true Buddha nature.”</p><h2 id="如理实见分第五"><a href="#如理实见分第五" class="headerlink" title="如理实见分第五"></a>如理实见分第五</h2><p>“须菩提，于意云何？可以身相见如来不？”</p><p>“不也，世尊。不可以身相得见如来。何以故？如来所说身相，即非身相。”</p><p>佛告须菩提：“凡所有相，皆是虚妄。若见诸相非相，即见如来。”</p><h2 id="Chapter-06"><a href="#Chapter-06" class="headerlink" title="Chapter 06"></a>Chapter 06</h2><p>Subhuti respectfully asked the lord Buddha, “Most Honored One! In the future, if a person hears this teaching, even if it is only a phrase or sentence, is it possible for that person to have a true faith and knowledge of Enlightenment awaken in their mind?”</p><p>“Without a doubt, Subhuti. Even 500 years after the Enlightenment of this Buddha there will be some who are virtuous and wise, and while practicing compassion and charity, will believe in the words and phrases of this Sutra and will awaken their minds purely. After they come to hear these teachings, they will be inspired with belief. This is because when some people hear these words, they will have understood intuitively that these words are the truth.”</p><p>“But you must also remember, Subhuti, that such persons have long ago planted the seeds of goodness and merit that lead to this realization. They have planted the seeds of good deeds and charity not simply before one Buddhist temple, or two temples, or five, but before hundreds of thousands of Buddhas and temples. So when a person who hears the words and phrases of this Sutra is ready for it to happen, a pure faith and clarity can awaken within their minds.”</p><p>“Subhuti, any person who awakens faith upon hearing the words or phrases of this Sutra will accumulate countless blessings and merit.”</p><p>“How do I know this? Because this person must have discarded all arbitrary notions of the existence of a personal self, of other people, or of a universal self. Otherwise their minds would still grasp after such relative conceptions. Furthermore, these people must have already discarded all arbitrary notions of the non-existence of a personal self, other people, or a universal self. Otherwise, their minds would still be grasping at such notions. Therefore anyone who seeks total Enlightenment should discard not only all conceptions of their own selfhood, of other selves, or of a universal self, but they should also discard all notions of the non-existence of such concepts.”</p><p>“When the Buddha explains these things using such concepts and ideas, people should remember the unreality of all such concepts and ideas. They should recall that in teaching spiritual truths the Buddha always uses these concepts and ideas in the way that a raft is used to cross a river. Once the river has been crossed over, the raft is of no more use, and should be discarded. These arbitrary concepts and ideas about spiritual things need to be explained to us as we seek to attain Enlightenment. However, ultimately these arbitrary conceptions can be discarded. Think Subhuti, isn’t it even more obvious that we should also give up our conceptions of non-existent things?”</p><h2 id="正信希有分第六"><a href="#正信希有分第六" class="headerlink" title="正信希有分第六"></a>正信希有分第六</h2><p>须菩提白佛言：“世尊，颇有众生，得闻如是言说章句，生实信不？”</p><p>佛告须菩提：“莫作是说。如来灭后，后五百岁，有持戒修福者，于此章句能生信心，以此为实。当知是人，不于一佛、二佛、三四五佛而种善根，已于无量千万佛所种诸善根。闻是章句，乃至一念生净信者，须菩提，如来悉知悉见，是诸众生得如是无量福德。何以故？是诸众生，无复我相、人相、众生相、寿者相，无法相，亦无非法相。何以故？是诸众生，若心取相，即为著我、人、众生、寿者；若取法相，即著我、人、众生、寿者。何以故？若取非法相，即著我、人、众生、寿者。是故，不应取法，不应取非法。以是义故，如来常说：汝等比丘知我说法如筏喻者。法尚应舍，何况非法。”</p><h2 id="Chapter-07"><a href="#Chapter-07" class="headerlink" title="Chapter 07"></a>Chapter 07</h2><p>Then Buddha asked Subhuti, “What do you think, Subhuti, has the Buddha arrived at the highest, most fulfilled, most awakened and enlightened mind? Does the Buddha teach any teaching?”</p><p>Subhuti replied, “As far as I have understood the lord Buddha’s teachings, there is no independently existing object of mind called the highest, most fulfilled, awakened or enlightened mind. Nor is there any independently existing teaching that the Buddha teaches. Why? Because the teachings that the Buddha has realized and spoken of cannot be conceived of as separate, independent things and therefore cannot be described. The truth in them is uncontainable and inexpressible. It neither is, nor is it not. What does this mean? What this means is that Buddhas and disciples are not enlightened by a set method of teachings, but by an internally intuitive process which is spontaneous and is part of their own inner nature.”</p><h2 id="无得无说分第七"><a href="#无得无说分第七" class="headerlink" title="无得无说分第七"></a>无得无说分第七</h2><p>“须菩提，于意云何？如来得阿耨多罗三藐三菩提耶？如来有所说法耶？”</p><p>须菩提言：“如我解佛所说义，无有定法名阿耨多罗三藐三菩提，亦无有定法如来可说。何以故？如来所说法，皆不可取、不可说，非法、非非法。所以者何？一切圣贤皆以无为法而有差别。”</p><h2 id="Chapter-08"><a href="#Chapter-08" class="headerlink" title="Chapter 08"></a>Chapter 08</h2><p>“Let me ask you Subhuti? If a person filled over ten thousand galaxies with the seven treasures for the purpose of compassion, charity, and giving alms, would this person not gain great merit and spread much happiness?”</p><p>“Yes, Most Honored One. This person would gain great merit and spread much happiness, even though, in truth, this person does not have a separate existence to which merit could accrue. Why? Because this person’s merit is characterized with the quality of not being merit.”</p><p>The Buddha continued, “Then suppose another person understood only four lines of this Sutra, but nevertheless took it upon themselves to explain these lines to someone else. This person’s merit would be even greater than the other person’s. Why? Because all Buddhas and all the teachings and values of the highest, most fulfilled, most awakened minds arise from the teachings in this Sutra. And yet, even as I speak, Subhuti, I must take back my words as soon as they are uttered, for there are no Buddhas and there are no teachings.”</p><h2 id="依法出生分第八"><a href="#依法出生分第八" class="headerlink" title="依法出生分第八"></a>依法出生分第八</h2><p>“须菩提，于意云何？若人满三千大千世界七宝，以用布施，是人所得福德宁为多不？”</p><p>须菩提言：“甚多，世尊。何以故？是福德，即非福德性，是故如来说福德多。”</p><p>“若复有人于此经中受持，乃至四句偈等，为他人说，其福胜彼。何以故？须菩提，一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出。须菩提，所谓佛法者，即非佛法。”</p><h2 id="Chapter-09"><a href="#Chapter-09" class="headerlink" title="Chapter 09"></a>Chapter 09</h2><p>Buddha then asked, “What do you think, Subhuti, does one who has entered the stream which flows to Enlightenment, say ‘I have entered the stream’?”</p><p>“No, Buddha”, Subhuti replied. “A true disciple entering the stream would not think of themselves as a separate person that could be entering anything. Only that disciple who does not differentiate themselves from others, who has no regard for name, shape, sound, odor, taste, touch or for any quality can truly be called a disciple who has entered the stream.”</p><p>Buddha continued, “Does a disciple who is subject to only one more rebirth say to himself, ‘I am entitled to the honors and rewards of a Once-to-be-reborn.’?”</p><p>“No, Lord. ‘Once-to-be-reborn’ is only a name. There is no passing away, or coming into, existence. Only one who realizes this can really be called a disciple.”</p><p>“Subhuti, does a venerable One who will never more be reborn as a mortal say to himself, ‘I am entitled to the honor and rewards of a Non-returner.’?”</p><p>“No, Perfectly Enlightened One. A ‘Non-returner’ is merely a name. There is actually no one returning and no one not-returning.”</p><p>“Tell me, Subhuti. Does a Buddha say to himself, ‘I have obtained Perfect Enlightenment.’?”</p><p>“No, lord. There is no such thing as Perfect Enlightenment to obtain. If a Perfectly Enlightened Buddha were to say to himself, ‘I am enlightened’ he would be admitting there is an individual person, a separate self and personality, and would therefore not be a Perfectly Enlightened Buddha.”</p><p>Subhuti then said, “Most Honored One! You have said that I, Subhuti, excel amongst thy disciples in knowing the bliss of Enlightenment, in being perfectly content in seclusion, and in being free from all passions. Yet I do not say to myself that I am so, for if I ever thought of myself as such then it would not be true that I escaped ego delusion. I know that in truth there is no Subhuti and therefore Subhuti abides nowhere, that he neither knows nor does he not know bliss, and that he is neither free from nor enslaved by his passions.”</p><h2 id="一相无相分第九"><a href="#一相无相分第九" class="headerlink" title="一相无相分第九"></a>一相无相分第九</h2><p>“须菩提，于意云何？须陀洹能作是念：我得须陀洹果不？”</p><p>须菩提言：“不也，世尊。何以故？须陀洹名为入流，而无所入。不入色、声、香、味、触、法，是名须陀洹。”</p><p>“须菩提，于意云何？斯陀含能作是念：我得斯陀含果不？”</p><p>须菩提言：“不也，世尊。何以故？斯陀含名一往来，而实无往来，是名斯陀含。”</p><p>“须菩提，于意云何？阿那含能作是念：我得阿那含果不？”</p><p>须菩提言：“不也，世尊。何以故？阿那含名为不来，而实无不来，是故名阿那含。”</p><p>“须菩提，于意云何？阿罗汉能作是念：我得阿罗汉道不？”</p><p>须菩提言：“不也，世尊。何以故？实无有法名阿罗汉。世尊，若阿罗汉作是念：我得阿罗汉道，即为著我、人、众生、寿者。世尊，佛说我得无诤三昧，人中最为第一，是第一离欲阿罗汉。世尊，我不作是念：我是离欲阿罗汉。世尊，我若作是念：我得阿罗汉道，世尊则不说须菩提是乐阿兰那行者。以须菩提实无所行，而名须菩提，是乐阿兰那行。”</p><h2 id="Chapter-10"><a href="#Chapter-10" class="headerlink" title="Chapter 10"></a>Chapter 10</h2><p>The Buddha then continued, “What do you think, Subhuti? When I was in a previous life, with Dipankara Buddha, did I receive any definite teaching or attain any degree of self-control, whereby I later became a Buddha?”</p><p>“No, honorable one. When you were a disciple of Dipankara Buddha, in truth, you received no definite teaching, nor did you attain any definite degree of self-control.”</p><p>“Subhuti, know also that if any Buddha would say, ‘I will create a paradise,’ he would speak falsely. Why? Because a paradise cannot be created nor can it not be uncreated.”</p><p>“A disciple should develop a mind which is in no way dependent upon sights, sounds, smells, tastes, sensory sensations or any mental conceptions. A disciple should develop a mind which does not rely on anything.”</p><p>“Therefore, Subhuti, the minds of all disciples should be purified of all thoughts that relate to seeing, hearing, tasting, smelling, touching, and discriminating. They should use their minds spontaneously and naturally, without being constrained by preconceived notions arising from the senses.”</p><p>“Suppose, Subhuti, a man had an enormous body. Would the sense of personal existence he had also be enormous?”</p><p>“Yes, indeed, Buddha,” Subhuti answered. “His sense of personal existence would be enormous. But the Buddha has taught that personal existence is just a name, for it is in fact neither existence nor non-existence. So it only has the name ‘personal existence’.”</p><h2 id="庄严净土分第十"><a href="#庄严净土分第十" class="headerlink" title="庄严净土分第十"></a>庄严净土分第十</h2><p>佛告须菩提：“于意云何？如来昔在然灯佛所，于法有所得不？”</p><p>“不也，世尊。如来在然灯佛所，于法实无所得。”</p><p>“须菩提，于意云何？菩萨庄严佛土不？”</p><p>“不也，世尊。何以故？庄严佛土者，即非庄严，是名庄严。”</p><p>“是故，须菩提，诸菩萨摩诃萨，应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。须菩提，譬如有人，身如须弥山王，于意云何？是身为大不？”</p><p>须菩提言：“甚大，世尊。何以故？佛说非身，是名大身。”</p><h2 id="Chapter-11"><a href="#Chapter-11" class="headerlink" title="Chapter 11"></a>Chapter 11</h2><p>“Subhuti, if there were as many Ganges rivers as the number of grains of sand in the Ganges, would you say that the number of grains of sand in all those Ganges rivers would be very many?”</p><p>Subhuti answered, “Very many indeed, Most Honored One. If the number of Ganges rivers were that large, how much more so would be the number of grains of sand in all those Ganges rivers.”</p><p>“Subhuti, I will declare a truth to you. If a good man or a good woman filled over ten thousand galaxies of worlds with the seven treasures for each grain of sand in all those Ganges rivers, and gave it all away for the purpose of compassion, charity and giving alms, would this man or woman not gain great merit and spread much happiness?”</p><p>Subhuti replied, “Very much so, Most Honored One.”</p><p>“Subhuti, if after studying and observing even a single stanza of this Sutra, another person were to explain it to others, the happiness and merit that would result from this virtuous act would be far greater.”</p><h2 id="无为福胜分第十一"><a href="#无为福胜分第十一" class="headerlink" title="无为福胜分第十一"></a>无为福胜分第十一</h2><p>“须菩提，如恒河中所有沙数，如是沙等恒河，于意云何？是诸恒河沙宁为多不？”</p><p>须菩提言：“甚多，世尊，但诸恒河尚多无数，何况其沙。”</p><p>“须菩提，我今实言告汝，若有善男子、善女人，以七宝满尔所恒河沙数三千大千世界，以用布施，得福多不？”</p><p>须菩提言：“甚多，世尊。”</p><p>佛告须菩提：“若善男子、善女人，于此经中，乃至受持四句偈等，为他人说，而此福德胜前福德。”</p><h2 id="Chapter-12"><a href="#Chapter-12" class="headerlink" title="Chapter 12"></a>Chapter 12</h2><p>“Furthermore, Subhuti, if any person in any place were to teach even four lines of this Sutra, the place where they taught it would become sacred ground and would be revered by all kinds of beings. How much more sacred would the place become if that person then studied and observed the whole Sutra! Subhuti, you should know that any person who does that would surely attain something rare and profound. Wherever this Sutra is honored and revered there is a sacred site enshrining the presence of the Buddha or one of the Buddha’s most venerable disciples.”</p><h2 id="尊重正教分第十二"><a href="#尊重正教分第十二" class="headerlink" title="尊重正教分第十二"></a>尊重正教分第十二</h2><p>“复次，须菩提，随说是经，乃至四句偈等，当知此处，一切世间天、人、阿修罗，皆应供养，如佛塔庙，何况有人尽能受持、读诵。须菩提，当知是人，成就最上第一希有之法。若是经典所在之处，即为有佛，若尊重弟子。”</p><h2 id="Chapter-13"><a href="#Chapter-13" class="headerlink" title="Chapter 13"></a>Chapter 13</h2><p>Subhuti said to the Buddha, “By what name shall we know this Sutra, so that it can be honored and studied?”</p><p>The lord Buddha replied, “This Sutra shall be known as<br>‘The Diamond that Cuts through Illusion’.</p><p>By this name it shall be revered and studied and observed. What does this name mean? It means that when the Buddha named it, he did not have in mind any definite or arbitrary conception, and so named it. This Sutra is hard and sharp, like a diamond that will cut away all arbitrary conceptions and bring one to the other shore of Enlightenment.”</p><p>“What do you think, Subhuti? Has the Buddha taught any definite teaching in this Sutra?”</p><p>“No lord, the Buddha has not taught any definite teaching in this Sutra.”</p><p>“What do you think, Subhuti? Are there many particles of dust in this vast universe?”</p><p>Subhuti replied: “Yes, many, Most Honored One!”</p><p>“Subhuti, when the Buddha speaks of particles of dust, it does not mean I am thinking of any definite or arbitrary thought, I am merely using these words as a figure of speech. They are not real, only illusion. It is just the same with the word universe; these words do not assert any definite or arbitrary idea, I am only using the words as words.”</p><p>“Subhuti, what do you think? Can the Buddha be perceived by means of his thirty-two physical characteristics?”</p><p>“No, Most Honored One. The Buddha cannot be perceived by his thirty-two physical characteristics. Why? Because the Buddha teaches that they are not real but are merely called the thirty-two physical characteristics.”</p><p>“Subhuti, if a good and faithful person, whether male or female, has, for the sake of compassion and charity, been sacrificing their life for generation upon generation, for as many generations as the grains of sands in 3,000 universes; and another follower has been studying and observing even a single section of this Sutra and explains it to others, that person’s blessings and merit would be far greater.”</p><h2 id="如法受持分第十三"><a href="#如法受持分第十三" class="headerlink" title="如法受持分第十三"></a>如法受持分第十三</h2><p>尔时，须菩提白佛言：“世尊，当何名此经？我等云何奉持？”</p><p>佛告须菩提：“是经名为《金刚般若波罗蜜》，以是名字，汝当奉持。所以者何？须菩提，佛说般若波罗蜜，即非般若波罗蜜，是名般若波罗蜜。”</p><p>“须菩提，于意云何，如来有所说法不？”</p><p>须菩提白佛言：“世尊，如来无所说。”</p><p>“须菩提，于意云何？三千大千世界所有微尘，是为多不？”</p><p>须菩提言：“甚多，世尊”</p><p>“须菩提，诸微尘，如来说非微尘，是名微尘。如来说世界非世界，是名世界。须菩提，于意云何？可以三十二相见如来不？”</p><p>“不也，世尊。不可以三十二相得见如来。何以故？如来说三十二相即是非相，是名三十二相。”</p><p>“须菩提，若有善男子、善女人，以恒河沙等身命布施，若复有人，于此经中乃至受持四句偈等，为他人说，其福甚多。”</p><h2 id="Chapter-14"><a href="#Chapter-14" class="headerlink" title="Chapter 14"></a>Chapter 14</h2><p>At that time, after listening to this Sutra, Subhuti had understood its profound meaning and was moved to tears.</p><p>He said, “What a rare and precious thing it is that you should deliver such a deeply profound teaching. Since the day I attained the eyes of understanding, thanks to the guidance of the Buddha, I have never before heard teachings so deep and wonderful as these. Most Honored One, if someone hears this Sutra, and has pure and clear confidence in it they will have a profound insight into the truth. Having perceived that profound insight, that person will realize the rarest kind of virtue. Most Honored One, that insight into the truth is essentially not insight into the truth, but is what the Buddha calls insight into the truth.”</p><p>“Most Honored One, having listened to this Sutra, I am able to receive and retain it with faith and understanding. This is not difficult for me, but in ages to come – in the last five hundred years, if there is a person who hears this Sutra, who receives and retains it with faith and understanding, then that person will be a rare one, a person of most remarkable achievement. Such a person will be able to awaken pure faith because they have ceased to cherish any arbitrary notions of their own selfhood, other selves, living beings, or a universal self. Why? Because if they continue to hold onto arbitrary conceptions as to their own selfhood, they will be holding onto something that is non-existent. It is the same with all arbitrary conceptions of other selves, living beings, or a universal self. These are all expressions of non-existent things. Buddhas are Buddhas because they have been able to discard all arbitrary conceptions of form and phenomena, they have transcended all perceptions, and have penetrated the illusion of all forms.”</p><p>The Buddha replied:</p><p>“So it is, Subhuti. Most wonderfully blest will be those beings who, on hearing this Sutra, will not tremble, nor be frightened, or terrified in any way. And why? The Buddha has taught this Sutra as the highest perfection. And what the Buddha teaches as the highest perfection, that also the innumerable Blessed Buddhas do teach. Therefore is it called the ‘highest perfection’.”</p><p>“Subhuti, when I talk about the practice of transcendent patience, I do not hold onto any arbitrary conceptions about the phenomena of patience, I merely refer to it as the practice of transcendent patience. And why is that? Because when, thousands of lifetimes ago, the Prince of Kalinga severed the flesh from my limbs and my body I had no perception of a self, a being, a soul, or a universal self. If I had cherished any of these arbitrary notions at the time my limbs were being torn away, I would have fallen into anger and hatred.”</p><p>“I also remember Subhuti that during my five hundred previous lives I had used life after life to practice patience and to look upon my life humbly, as though I were a saint called upon to suffer humility. Even then my mind was free of arbitrary conceptions of the phenomena of my self, a being, a soul, or a universal self.”</p><p>“Therefore, Subhuti, disciples should leave behind all distinctions of phenomena and awaken the thought of the attainment of Supreme Enlightenment. A disciple should do this by not allowing their mind to depend upon ideas evoked by the world of the senses – by not allowing their mind to depend upon ideas stirred by sounds, odors, flavors, sensory touch, or any other qualities. The disciple’s mind should be kept independent of any thoughts that might arise within it. If the disciple’s mind depends upon anything in the sensory realm it will have no solid foundation in any reality. This is why Buddha teaches that the mind of a disciple should not accept the appearances of things as a basis when exercising charity. Subhuti, as disciples practice compassion and charity for the welfare of all living beings they should do it without relying on appearances, and without attachment. Just as the Buddha declares that form is not form, so he also declares that all living beings are, in fact, not living beings.”</p><h2 id="离相寂灭分第十四"><a href="#离相寂灭分第十四" class="headerlink" title="离相寂灭分第十四"></a>离相寂灭分第十四</h2><p>尔时，须菩提闻说是经，深解义趣，涕泪悲泣而白佛言：“希有，世尊！佛说如是甚深经典。我从昔来，所得慧眼，未曾得如是之经。世尊，若复有人得闻是经，信心清净，即生实相，当知是人，成就第一希有功德。世尊，是实相者，即是非相，是故如来说名实相。世尊，我今得闻如是经典，信解受持，不足为难。若当来世后五百岁，其有众生得闻是经，信解受持，是人即为第一希有。何以故？此人无我相，无人相，无众生相，无寿者相。所以者何？我相即是非相，人相、众生相、寿者相即是非相。何以故？离一切诸相，即名诸佛。”</p><p>佛告须菩提：“如是，如是。若复有人得闻是经，不惊，不怖，不畏，当知是人甚为希有。何以故？须菩提，如来说第一波罗蜜，即非第一波罗蜜，是名第一波罗蜜。”</p><p>“须菩提，忍辱波罗蜜，如来说非忍辱波罗蜜，是名忍辱波罗蜜。何以故？如我昔为歌利王割截身体，我于尔时，无我相，无人相，无众生相，无寿者相。何以故？我于往昔节节支解时，若有我相、人相、众生相、寿者相，应生嗔恨。</p><p>“须菩提，又念过去于五百世作忍辱仙人，于尔所世，无我相，无人相，无众生相，无寿者相。是故，须菩提，菩萨应离一切相，发阿耨多罗三藐三菩提心。不应住色生心，不应住声、香、味、触、法生心，应生无所住心。若心有住，即为非住。是故，佛说菩萨心不应住色布施。须菩提，菩萨为利益一切众生故，应如是布施。如来说一切诸相即是非相，又说一切众生即非众生。</p><p>“须菩提，如来是真语者、实语者、如语者、不诳语者、不异语者。须菩提，如来所得法，此法无虚无实。须菩提，若菩萨心住于法而行布施，如人入暗，即无所见；若菩萨心不住法而行布施，如人有目，日光明照，见种种色。</p><p>“须菩提，当来之世，若有善男子、善女人能于此经受持读诵，即为如来。以佛智慧，悉知是人，悉见是人，皆得成就无量无边功德。”</p><h2 id="Chapter-15"><a href="#Chapter-15" class="headerlink" title="Chapter 15"></a>Chapter 15</h2><p>“Subhuti, if on the one hand, a son or daughter of a good family gives up his or her life in the morning as many times as there are grains of sand in the Ganges river as an act of generosity, and gives as many again in the afternoon and as many again in the evening, and continues doing so for countless ages; and if, on the other hand, another person listens to this Sutra with complete confidence and without contention, that person’s happiness will be far greater. But the happiness of one who writes this Sutra down, receives, recites, and explains it to others cannot even be compared it is so great.”</p><p>“Subhuti, we can summarize by saying that the merit and virtue of this Sutra is inconceivable, incalculable and boundless. The Buddha has declared this teaching for the benefit of initiates on the path to Enlightenment; he has declared it for the benefit of initiates on the path to Nirvana. If there is someone capable of receiving, practicing, reciting, and sharing this Sutra with others, the Buddha will see and know that person, and he or she will receive immeasurable, incalculable, and boundless merit and virtue. Such a person is known to be carrying the Supreme Enlightenment attained by the Buddha. Why? Subhuti, if a person is satisfied with lesser teachings than those I present here, if he or she is still caught up in the idea of a self, a person, a living being, or a universal self, then that person would not be able to listen to, receive, recite, or explain this Sutra to others.”</p><p>“Subhuti, wherever this Sutra shall be observed, studied and explained, that place will become sacred ground to which countless spiritually advanced beings will bring offerings. Such places, however humble they may be, will be revered as though they were famous temples, and countless pilgrims will come there to worship. Such a place is a shrine and should be venerated with formal ceremonies, and offerings of flowers and incense. That is the power of this Sutra.”</p><h2 id="持经功德分第十五"><a href="#持经功德分第十五" class="headerlink" title="持经功德分第十五"></a>持经功德分第十五</h2><p>“须菩提，若有善男子、善女人，初日分以恒河沙等身布施，中日分复以恒河沙等身布施，后日分亦以恒河沙等身布施。如是无量百千亿万劫，以身布施。若复有人，闻此经典，信心不逆，其福胜彼，何况书写、受持、读诵、为人解说。”</p><p>“须菩提，以要言之，是经有不可思议、不可称量无边功德。如来为发大乘者说，为发最上乘者说。若有人能受持、读诵、广为人说，如来悉知是人，悉见是人，皆得成就不可量、不可称、无有边、不可思议功德。如是人等，即为荷担如来阿耨多罗三藐三菩提。”</p><p>“何以故？须菩提，若乐小法者，著我见、人见、众生见、寿者见，即于此经，不能听受读诵，为人解说。”</p><p>“须菩提，在在处处，若有此经，一切世间天、人、阿修罗所应供养。当知此处，即为是塔，皆应恭敬，作礼围绕，以诸华香，而散其处。”</p><h2 id="Chapter-16"><a href="#Chapter-16" class="headerlink" title="Chapter 16"></a>Chapter 16</h2><p>“Furthermore, Subhuti, if a good man or good woman who accepts, upholds, reads or recites this Sutra is disdained or slandered, if they are despised or insulted, it means that in prior lives they committed evil acts and as a result are now suffering the fruits of their actions. When their prior life’s evil acts have finally been dissolved and extinguished, he or she will attain the supreme clarity of the most fulfilled, and awakened mind.”</p><p>“Subhuti, in ancient times before I met Dipankara Buddha, I had made offerings to and had been attendant of all 84,000 million Buddhas. If someone is able to receive, recite, study, and practice this Sutra in a later, more distant age, then the happiness and merit brought about by this virtuous act would be hundreds of thousands of times greater than that which I brought about by my service to the Buddhas in ancient times. In fact, such happiness and merit cannot be conceived or compared with anything, even mathematically. If I were to explain all this in detail now some people might become suspicious and disbelieving, and their minds may even become disoriented or confused. Subhuti, you should know that the meaning of this Sutra is beyond conception and discussion. Likewise, the fruit resulting from receiving and practicing this Sutra is beyond conception and discussion.”</p><h2 id="能净业障分第十六"><a href="#能净业障分第十六" class="headerlink" title="能净业障分第十六"></a>能净业障分第十六</h2><p>“复次，须菩提，若善男子、善女人受持读诵此经，若为人轻贱，是人先世罪业应堕恶道，以今世人轻贱故，先世罪业即为消灭，当得阿耨多罗三藐三菩提。</p><p>“须菩提，我念过去无量阿僧祇劫，于然灯佛前，得值八百四千万亿那由他诸佛，悉皆供养承事，无空过者。若复有人于后末世，能受持读诵此经，所得功德，于我所供养诸佛功德，百分不及一，千万亿分乃至算数、譬喻所不能及。</p><p>“须菩提，若善男子、善女人于后末世，有受持读诵此经，所得功德，我若具说者，或有人闻，心即狂乱，狐疑不信。须菩提，当知是经义不可思议，果报亦不可思议。”</p><h2 id="Chapter-17"><a href="#Chapter-17" class="headerlink" title="Chapter 17"></a>Chapter 17</h2><p>At that time, the venerable Subhuti then asked the Buddha, “World-Honored One, may I ask you a question again? If sons or daughters of a good family want to develop the highest, most fulfilled and awakened mind, if they wish to attain the Highest Perfect Wisdom, what should they do to help quiet their drifting minds and master their thinking?”</p><p>The Buddha replied:</p><p>“Subhuti, a good son or daughter who wants to give rise to the highest, most fulfilled, and awakened mind must create this resolved attitude of mind: ‘I must help to lead all beings to the shore of awakening, but, after these beings have become liberated, in truth I know that not even a single being has been liberated.’ Why is this so? If a disciple cherishes the idea of a self, a person, a living being or a universal self, then that person is not an authentic disciple. Why? Because in fact there is no independently existing object of mind called the highest, most fulfilled, and awakened mind.”</p><p>“What do you think, Subhuti? In ancient times, when the Buddha was living with Dipankara Buddha, did he attain anything called the highest, most fulfilled, and awakened mind?”</p><p>“No, Most Honored One. According to what I understand from the teachings of the Buddha, there is no attaining of anything called the highest, most fulfilled, and awakened mind.”</p><p>The Buddha said:</p><p>“You are correct, Subhuti. In fact, there does not exist any so-called highest, most fulfilled, and awakened mind that the Buddha attains. Because if there had been any such thing, Dipankara Buddha would not have predicted of me, ‘In the future, you will come to be a Buddha known as The Most Honored One’. This prediction was made because there is, in fact, nothing to be attained. Someone would be mistaken to say that the Buddha has attained the highest, most fulfilled, and awakened mind because there is no such thing as a highest, most fulfilled, or awakened mind to be attained.”</p><p>“Subhuti, a comparison can be made with the idea of a large human body. What would you understand me to mean if I spoke of a ‘large human body’?”</p><p>“I would understand that the lord Buddha was speaking of a ‘large human body’ not as an arbitrary conception of its being, but as a series of words only. I would understand that the words carried merely an imaginary meaning. When the Buddha speaks of a large human body, he uses the words only as words.”</p><p>“Subhuti, it is just the same when a disciple speaks of liberating numberless sentient beings. If they have in mind any arbitrary conception of sentient beings or of definite numbers, then they are unworthy of being called a disciple. Subhuti, my teachings reveal that even such a thing as is called a ‘disciple’ is non-existent. Furthermore, there is really nothing for a disciple to liberate.”</p><p>“A true disciple knows that there is no such thing as a self, a person, a living being, or a universal self. A true disciple knows that all things are devoid of selfhood, devoid of any separate individuality.”</p><p>To make this teaching even more emphatic, the lord Buddha continued,</p><p>“If a disciple were to speak as follows, ‘I have to create a serene and beautiful Buddha field’, that person is not yet truly a disciple. Why? What the Buddha calls a ‘serene and beautiful Buddha field’ is not in fact a serene and beautiful Buddha field. And that is why it is called a serene and beautiful Buddha field. Subhuti, only a disciple who is wholly devoid of any conception of separate selfhood is worthy of being called a disciple.”</p><h2 id="究竟无我分第十七"><a href="#究竟无我分第十七" class="headerlink" title="究竟无我分第十七"></a>究竟无我分第十七</h2><p>尔时，须菩提白佛言：“世尊，善男子、善女人，发阿耨多罗三藐三菩提心，云何应住？云何降伏其心？”</p><p>佛告须菩提：”善男子、善女人发阿耨多罗三藐三菩提心者，当生如是心：我应灭度一切众生，灭度一切众生已，而无有一众生实灭度者。何以故？须菩提，若菩萨有我相、人相、众生相、寿者相，则非菩萨。所以者何？须菩提，实无有法，发阿耨多罗三藐三菩提心者。须菩提，于意云何？如来于然灯佛所，有法得发阿耨多罗三藐三菩提不？“</p><p>“不也，世尊。如我解佛所说义，佛于然灯佛所，无有法得发阿耨多罗三藐三菩提。”</p><p>佛言：“如是如是。须菩提，实无有法，如来得发阿耨多罗三藐三菩提。须菩提，若有法，如来得阿耨多罗三藐三菩提者，然灯佛即不与我授记：‘汝于来世当得作佛，号释迦牟尼。’以实无有法得发阿耨多罗三藐三菩提，是故然灯佛与我授记，作是言：‘汝于来世当得作佛，号释迦牟尼。’何以故？如来者，即诸法如义。若有人言：如来得阿耨多罗三藐三菩提，须菩提，实无有法，佛得阿耨多罗三藐三菩提。”</p><p>“须菩提，如来所得阿耨多罗三藐三菩提，于是中无实无虚。是故如来说一切法皆是佛法。须菩提，所言一切法者，即非一切法，是故名一切法。须菩提，譬如人身长大……”</p><p>须菩提言：“世尊，如来说人身长大，即为非大身，是名大身。”</p><p>“须菩提，菩萨亦如是。若作是言，我当灭度无量众生，即不名菩萨。何以故？须菩提，实无有法名为菩萨。是故，佛说一切法无我、无人、无众生、无寿者。</p><p>“须菩提，若菩萨作是言，我当庄严佛土，是不名菩萨。何以故？如来说庄严佛土者，即非庄严，是名庄严。须菩提，若菩萨通达无我法者，如来说名真是菩萨。”</p><h2 id="Chapter-18"><a href="#Chapter-18" class="headerlink" title="Chapter 18"></a>Chapter 18</h2><p>The Buddha then asked Subhuti, “What do you think? Does the Buddha have human eyes?”</p><p>“Subhuti replied, “Yes, he has human eyes.”</p><p>“Does he have the eyes of Enlightenment?”</p><p>“Of course, the Buddha has the eyes of Enlightenment, otherwise he would not be the Buddha.”</p><p>“Does the Buddha have the eyes of transcendent intelligence?”</p><p>“Yes, the Buddha has the eyes of transcendent intelligence.”</p><p>“Does the Buddha have the eyes of spiritual intuition?”</p><p>“Yes, lord, the Buddha has the eyes of spiritual intuition.”</p><p>“Does the Buddha have the eyes of love and compassion for all sentient beings?”</p><p>Subhuti agreed and said, “Lord, you love all sentient life.”</p><p>“What do you think, Subhuti? When I referred to the grains of sand in the river Ganges, did I assert that they were truly grains of sand?”</p><p>“No blessed lord, you only spoke of them as grains of sand.”</p><p>“Subhuti, if there were as many Ganges rivers as there are grains of sand in the river Ganges, and if there were as many buddhalands as there are grains of sand in all those innumerable rivers, would these buddhalands be considered numerous?”</p><p>“Very numerous indeed, lord Buddha.”</p><p>“Subhuti, I know the mind of every sentient being in all the host of universes, regardless of any modes of thought, conceptions or tendencies. For all modes, conceptions and tendencies of thought are not mind. And yet they are called ‘mind’. Why? It is impossible to retain a past thought, to seize a future thought, and even to hold onto a present thought.”</p><h2 id="一体同观分第十八"><a href="#一体同观分第十八" class="headerlink" title="一体同观分第十八"></a>一体同观分第十八</h2><p>“须菩提，于意云何？如来有肉眼不？”</p><p>“如是，世尊，如来有肉眼。”</p><p>“须菩提，于意云何？如来有天眼不？”</p><p>“如是，世尊，如来有天眼。”</p><p>“须菩提，于意云何？如来有慧眼不？”</p><p>“如是，世尊，如来有慧眼。”</p><p>“须菩提，于意云何？如来有法眼不？”</p><p>“如是，世尊，如来有法眼。”</p><p>“须菩提，于意云何？如来有佛眼不？”</p><p>“如是，世尊，如来有佛眼。”</p><p>“须菩提，于意云何？如恒河中所有沙，佛说是沙不？”</p><p>“如是，世尊，如来说是沙。”</p><p>“须菩提，于意云何？如一恒河中所有沙，有如是沙等恒河，是诸恒河所有沙数佛世界，如是宁为多不？”</p><p>“甚多，世尊。”</p><p>佛告须菩提：“尔所国土中，所有众生若干种心，如来悉知。何以故？如来说诸心，皆为非心，是名为心。所以者何？须菩提，过去心不可得，现在心不可得，未来心不可得。”</p><h2 id="Chapter-19"><a href="#Chapter-19" class="headerlink" title="Chapter 19"></a>Chapter 19</h2><p>The Buddha continued:</p><p>“What do you think Subhuti? If a follower were to give away enough treasures to fill 3,000 universes, would a great blessing and merit incur to him or her?”</p><p>Subhuti replied, “Honored one, such a follower would acquire considerable blessings and merit.”</p><p>The lord Buddha said:</p><p>“Subhuti, if such a blessing had any substantiality, if it were anything other than a figure of speech, the Most Honored One would not have used the words ‘blessings and merit’.”</p><h2 id="法界通化分第十九"><a href="#法界通化分第十九" class="headerlink" title="法界通化分第十九"></a>法界通化分第十九</h2><p>“须菩提，于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？”</p><p>“如是，世尊。此人以是因缘得福甚多。”</p><p>“须菩提，若福德有实，如来不说得福德多。以福德无故，如来说得福德多。”</p><h2 id="Chapter-20"><a href="#Chapter-20" class="headerlink" title="Chapter 20"></a>Chapter 20</h2><p>“Subhuti, what do you think, should one look for Buddha in his perfect physical body?”</p><p>“No, Perfectly Enlightened One, one should not look for Buddha in his perfect physical body. Why? The Buddha has said that the perfect physical body is not the perfect physical body. Therefore it is called the perfect physical body.”</p><p>“Subhuti, what do you think, should one look for Buddha in all his perfect appearances?”</p><p>“No Most Honored One, one should not look for Buddha in all his perfect appearances. Why? The Buddha has said perfect appearances are not perfect appearances. Therefore they are called perfect appearances.”</p><h2 id="离色离相分第二十"><a href="#离色离相分第二十" class="headerlink" title="离色离相分第二十"></a>离色离相分第二十</h2><p>“须菩提，于意云何？佛可以具足色身见不？”</p><p>“不也，世尊。如来不应以具足色身见。何以故？如来说具足色身，即非具足色身，是名具足色身。”</p><p>“须菩提，于意云何？如来可以具足诸相见不？”</p><p>“不也，世尊。如来不应以具足诸相见。何以故？如来说诸相具足，即非诸相具足，是名诸相具足。”</p><h2 id="Chapter-21"><a href="#Chapter-21" class="headerlink" title="Chapter 21"></a>Chapter 21</h2><p>“Subhuti, do not maintain that the Buddha has this thought: ‘I have spoken spiritual truths.’ Do not think that way. Why? If someone says the Buddha has spoken spiritual truths, he slanders the Buddha due to his inability to understand what the Buddha teaches. Subhuti, as to speaking truth, no truth can be spoken. Therefore it is called ‘speaking truth’.”</p><p>At that time Subhuti, the wise elder, addressed the Buddha, “Most Honored One, will there be living beings in the future who believe in this Sutra when they hear it?”</p><p>The Buddha said:</p><p>“The living beings to whom you refer are neither living beings nor not living beings. Why? Subhuti, all the different kinds of living beings the Buddha speaks of are not living beings. But they are referred to as living beings.”</p><h2 id="非说所说分第二十一"><a href="#非说所说分第二十一" class="headerlink" title="非说所说分第二十一"></a>非说所说分第二十一</h2><p>“须菩提，汝勿为如来作是念：我当有所说法。莫作是念！何以故？若人言如来有所说法，即为谤佛，不能解我所说故。须菩提，说法者无法可说，是名说法。”</p><p>尔时，慧命须菩提白佛言：“世尊，颇有众生于未来世闻说是法，生信心不？”</p><p>佛言：“须菩提，彼非众生，非不众生。何以故？须菩提，众生众生者，如来说非众生，是名众生。”</p><h2 id="Chapter-22"><a href="#Chapter-22" class="headerlink" title="Chapter 22"></a>Chapter 22</h2><p>Subhuti again asked, “Blessed lord, when you attained complete Enlightenment, did you feel in your mind that nothing had been acquired?”</p><p>The Buddha replied:</p><p>“That is it exactly, Subhuti. When I attained total Enlightenment, I did not feel, as the mind feels, any arbitrary conception of spiritual truth, not even the slightest. Even the words ‘total Enlightenment’ are merely words, they are used merely as a figure of speech.”</p><h2 id="无法可得分第二十二"><a href="#无法可得分第二十二" class="headerlink" title="无法可得分第二十二"></a>无法可得分第二十二</h2><p>须菩提白佛言：“世尊，佛得阿耨多罗三藐三菩提，为无所得耶？”</p><p>佛言：“如是如是。须菩提，我于阿耨多罗三藐三菩提，乃至无有少法可得，是名阿耨多罗三藐三菩提。”</p><h2 id="Chapter-23"><a href="#Chapter-23" class="headerlink" title="Chapter 23"></a>Chapter 23</h2><p>“Furthermore Subhuti, what I have attained in total Enlightenment is the same as what all others have attained. It is undifferentiated, regarded neither as a high state, nor a low state. It is wholly independent of any definite or arbitrary conceptions of an individual self, other selves, living beings, or a universal self.”</p><p>“Subhuti, when someone is selflessly charitable, they should also practice being ethical by remembering that there is no distinction between one’s self and the selfhood of others. Thus one practices charity by giving not only gifts, but through kindness and sympathy. Practice kindness and charity without attachment and you can become fully enlightened.”</p><p>“Subhuti, what I just said about kindness does not mean that when someone is being charitable they should hold onto arbitrary conceptions about kindness, for kindness is, after all, only a word and charity needs to be spontaneous and selfless, done without regard for appearances.”</p><h2 id="净心行善分第二十三"><a href="#净心行善分第二十三" class="headerlink" title="净心行善分第二十三"></a>净心行善分第二十三</h2><p>“复次，须菩提，是法平等，无有高下，是名阿耨多罗三藐三菩提。以无我、无人、无众生、无寿者修一切善法，即得阿耨多罗三藐三菩提。须菩提，所言善法者，如来说即非善法，是名善法。”</p><h2 id="Chapter-24"><a href="#Chapter-24" class="headerlink" title="Chapter 24"></a>Chapter 24</h2><p>“Subhuti, if a person collected treasures as high as 3,000 of the highest mountains, and gave them all to others, their merit would be less than what would accrue to another person who simply observed and studied this Sutra and, out of kindness, explained it to others. The latter person would accumulate hundreds of times the merit, hundreds of thousands of millions of times the merit. There is no conceivable comparison.”</p><h2 id="福智无比分第二十四"><a href="#福智无比分第二十四" class="headerlink" title="福智无比分第二十四"></a>福智无比分第二十四</h2><p>“须菩提，若三千大千世界中，所有诸须弥山王，如是等七宝聚，有人持用布施；若人以此《般若波罗蜜经》，乃至四句偈等，受持读诵、为他人说，于前福德，百分不及一，百千万亿分，乃至算数、譬喻所不能及。”</p><h2 id="Chapter-25"><a href="#Chapter-25" class="headerlink" title="Chapter 25"></a>Chapter 25</h2><p>“Subhuti, do not say that the Buddha has the idea, ‘I will lead all sentient beings to Nirvana.’ Do not think that way, Subhuti. Why? In truth there is not one single being for the Buddha to lead to Enlightenment. If the Buddha were to think there was, he would be caught in the idea of a self, a person, a living being, or a universal self. Subhuti, what the Buddha calls a self essentially has no self in the way that ordinary persons think there is a self. Subhuti, the Buddha does not regard anyone as an ordinary person. That is why he can speak of them as ordinary persons.”</p><h2 id="化无所化分第二十五"><a href="#化无所化分第二十五" class="headerlink" title="化无所化分第二十五"></a>化无所化分第二十五</h2><p>“须菩提，于意云何？汝等勿为如来作是念：我当度众生。须菩提，莫作是念！何以故？实无有众生如来度者，若有众生如来度者，如来即有我、人、众生、寿者。”</p><p>“须菩提，如来说有我者，即非有我，而凡夫之人以为有我。须菩提，凡夫者，如来说既非凡夫，是名凡夫。”</p><h2 id="Chapter-26"><a href="#Chapter-26" class="headerlink" title="Chapter 26"></a>Chapter 26</h2><p>Then the Buddha inquired of Subhuti:</p><p>“What do you think Subhuti? Is it possible to recognize the Buddha by the 32 physical marks?”</p><p>Subhuti replied, “Yes, Most Honored One, the Buddha may thus be recognized.”</p><p>“Subhuti, if that were true then Chakravartin, the mythological king who also had the 32 marks, would be called a Buddha.”</p><p>Then Subhuti, realizing his error, said, “Most Honored One, now I realize that the Buddha cannot be recognized merely by his 32 physical marks of excellence.”</p><p>The Buddha then said:</p><p>“Should anyone, looking at an image or likeness of the Buddha, claim to know the Buddha and worship him, that person would be mistaken, not knowing the true Buddha.”</p><h2 id="法身非相分第二十六"><a href="#法身非相分第二十六" class="headerlink" title="法身非相分第二十六"></a>法身非相分第二十六</h2><p>“须菩提，于意云何？可以三十二相观如来不？”</p><p>须菩提言：“如是如是，以三十二相观如来。”</p><p>佛言：“须菩提，若以三十二相观如来者，转轮圣王即是如来。”</p><p>须菩提白佛言：“世尊，如我解佛所说义，不应以三十二相观如来。”</p><p>尔时，世尊而说偈言：</p><p>若以色见我，</p><p>以音声求我，</p><p>是人行邪道，</p><p>不能见如来。</p><h2 id="Chapter-27"><a href="#Chapter-27" class="headerlink" title="Chapter 27"></a>Chapter 27</h2><p>“However, Subhuti, if you think that the Buddha realizes the highest, most fulfilled, and awakened mind and does not need to have all the marks, you are mistaken. Subhuti, do not think in that way. Do not think that when one gives rise to the highest, most fulfilled, and awakened mind, one needs to see all objects of mind as nonexistent, cut off from life. Please do not think in that way. One who gives rise to the highest, most fulfilled, and awakened mind does not contend that all objects of mind are nonexistent and cut off from life. That is not what I say.”</p><h2 id="无断无灭分第二十七"><a href="#无断无灭分第二十七" class="headerlink" title="无断无灭分第二十七"></a>无断无灭分第二十七</h2><p>“须菩提，汝若作是念：如来不以具足相故，得阿耨多罗三藐三菩提。须菩提，莫作是念：如来不以具足相故，得阿耨多罗三藐三菩提。须菩提，汝若作是念：发阿耨多罗三藐三菩提心者，说诸法断灭。莫作是念！何以故？发阿耨多罗三藐三菩提心者，于法不说断灭相。”</p><h2 id="Chapter-28"><a href="#Chapter-28" class="headerlink" title="Chapter 28"></a>Chapter 28</h2><p>The lord Buddha continued:</p><p>“Subhuti, if someone gives treasures equal to the number of sands on the shores of the Ganges river, and if another, having realized the egolessness of all things, thereby understands selflessness, the latter would be more blessed than the one who practiced external charity. Why? Because great disciples do not see blessings and merit as a private possession, as something to be gained.”</p><p>Subhuti inquired of the lord Buddha, “What do you mean ‘great disciples do not see blessings and merit as a private possession’?”</p><p>The Buddha replied:</p><p>“Because those blessings and merit have never been sought after by those great disciples, they do not see them as private possessions, but they see them as the common possession of all beings.”</p><h2 id="不受不贪分第二十八"><a href="#不受不贪分第二十八" class="headerlink" title="不受不贪分第二十八"></a>不受不贪分第二十八</h2><p>“须菩提，若菩萨以满恒河沙等世界七宝持用布施；若复有人知一切法无我，得成于忍，此菩萨胜前菩萨所得功德。何以故？须菩提，以诸菩萨不受福德故。”</p><p>须菩提白佛言：“世尊，云何菩萨不受福德？”</p><p>“须菩提，菩萨所作福德，不应贪著，是故说不受福德。”</p><h2 id="Chapter-29"><a href="#Chapter-29" class="headerlink" title="Chapter 29"></a>Chapter 29</h2><p>The Buddha said:</p><p>“Subhuti, if any person were to say that the Buddha is now coming or going, or sitting up or lying down, they would not have understood the principle I have been teaching. Why? Because while the expression ‘Buddha’ means ‘he who has thus come, thus gone,’ the true Buddha is never coming from anywhere or going anywhere. The name ‘Buddha’ is merely an expression, a figure of speech.”</p><h2 id="威仪寂静分第二十九"><a href="#威仪寂静分第二十九" class="headerlink" title="威仪寂静分第二十九"></a>威仪寂静分第二十九</h2><p>“须菩提，若有人言：如来若来若去，若坐若卧，是人不解我所说义。何以故？如来者，无所从来，亦无所去，故名如来。”</p><h2 id="Chapter-30"><a href="#Chapter-30" class="headerlink" title="Chapter 30"></a>Chapter 30</h2><p>The lord Buddha resumed:</p><p>“Subhuti, if any good person, either man or woman, were to take 3,000 galaxies and grind them into microscopic powder and blow it into space, what do you think, would this powder have any individual existence?”</p><p>Subhuti replied, “Yes, lord, as a microscopic powder blown into space, it might be said to have a relative existence, but as you use words, it has no existence. The words are used only as a figure of speech. Otherwise the words would imply a belief in the existence of matter as an independent and self-existent thing, which it is not.”</p><p>“Furthermore, when the Most Honored One refers to the ‘3,000 galaxies,’ he could only do so as a figure of speech. Why? Because if the 3,000 galaxies really existed, their only reality would consist in their cosmic unity. Whether as microscopic powder or as galaxies, what does it matter? Only in the sense of the cosmic unity of ultimate being can the Buddha rightfully refer to it.”</p><p>The lord Buddha was very pleased with this reply and said:</p><p>“Subhuti, although ordinary people have always grasped after an arbitrary conception of matter and galaxies, the concept has no true basis; it is an illusion of the mortal mind. Even when it is referred to as ‘cosmic unity’ it is unthinkable and unknowable.”</p><h2 id="一合理相分第三十"><a href="#一合理相分第三十" class="headerlink" title="一合理相分第三十"></a>一合理相分第三十</h2><p>“须菩提，若善男子善女人，以三千大千世界碎为微尘，于意云何？是微尘众宁为多不？”</p><p>须菩提言：“甚多，世尊。何以故？若是微尘众实有者，佛即不说是微尘众。所以者何？佛说微尘众，即非微尘众，是名微尘众。世尊，如来所说三千大千世界，即非世界，是名世界。何以故？若世界实有者，即是一合相，如来说一合相，即非一合相，是名一合相。”</p><p>“须菩提，一合相者，即是不可说。但凡夫之人，贪着其事。”</p><h2 id="Chapter-31"><a href="#Chapter-31" class="headerlink" title="Chapter 31"></a>Chapter 31</h2><p>The lord Buddha continued:</p><p>“If any person were to say that the Buddha, in his teachings, has constantly referred to himself, to other selves, to living beings, or to a universal self, what do you think, would that person have understood my meaning?”</p><p>Subhuti replied, “No, blessed lord. That person would not have understood the meaning of your teachings. For when you refer to those things, you are not referring to their actual existence, you only use the words as figures of speech, as symbols. Only in that sense can words be used, for conceptions, ideas, limited truths, and spiritual truths have no more reality than have matter or phenomena.”</p><p>Then the lord Buddha made his meaning even more emphatic by saying:</p><p>“Subhuti, when people begin their practice of seeking to attaining total Enlightenment, they ought to see, to perceive, to know, to understand, and to realize that all things and all spiritual truths are no-things, and, therefore, they ought not to conceive within their minds any arbitrary conceptions whatsoever.”</p><h2 id="知见不生分第三十一"><a href="#知见不生分第三十一" class="headerlink" title="知见不生分第三十一"></a>知见不生分第三十一</h2><p>“须菩提，若人言，佛说我见、人见、众生见、寿者见，须菩提，于意云何？是人解我所说义不？”</p><p>“不也，世尊，是人不解如来所说义。何以故？世尊说我见、人见、众生见、寿者见，即非我见、人见、众生见、寿者见，是名我见、人见众生见、寿者见。”</p><p>“须菩提，发阿耨多罗三藐三菩提心者，于一切法，应如是知、如是见、如是信解，不生法相。须菩提，所言法相者，如来说即非法相，是名法相。”</p><h2 id="Chapter-32"><a href="#Chapter-32" class="headerlink" title="Chapter 32"></a>Chapter 32</h2><p>Buddha continued:</p><p>“Subhuti, if anyone gave to the Buddha an immeasurable quantity of the seven treasures sufficient to fill the whole universe; and if another person, whether a man or woman, in seeking to attain complete Enlightenment were to earnestly and faithfully observe and study even a single section of this Sutra and explain it to others, the accumulated blessing and merit of that latter person would be far greater.”</p><p>“Subhuti, how can one explain this Sutra to others without holding in mind any arbitrary conception of forms or phenomena or spiritual truths? It can only be done, Subhuti, by keeping the mind in perfect tranquility and free from any attachment to appearances.”</p><p>“So I say to you –<br>This is how to contemplate our conditioned existence in this fleeting world:”</p><p>“Like a tiny drop of dew, or a bubble floating in a stream;<br>Like a flash of lightning in a summer cloud,<br>Or a flickering lamp, an illusion, a phantom, or a dream.”</p><p>“So is all conditioned existence to be seen.”</p><p>Thus spoke Buddha.</p><h2 id="应化非真分第三十二"><a href="#应化非真分第三十二" class="headerlink" title="应化非真分第三十二"></a>应化非真分第三十二</h2><p>“须菩提，若有人以满无量阿僧祇世界七宝持用布施；若有善男子善女人发菩提心者，持于此经，乃至四句偈等，受持读诵、为人演说，其福胜彼。</p><p>“云何为人演说？不取于相，如如不动。何以故？</p><p>”一切有为法，</p><p>如梦幻泡影，</p><p>如露亦如电，</p><p>应作如是观。“</p><p>佛说是经已，长老须菩提及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;《金刚经》英文版及中文版本。来自&lt;a href=&quot;https://github.com/HanYouyang/Diamond-Sutra&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github&lt;/a&gt;。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="人文社科" scheme="http://blog.latelee.org/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/"/>
+    
+    
+      <category term="学佛" scheme="http://blog.latelee.org/tags/%E5%AD%A6%E4%BD%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子36：上线后的事</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9036%EF%BC%9A%E4%B8%8A%E7%BA%BF%E5%90%8E%E7%9A%84%E4%BA%8B.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子36：上线后的事.html</id>
+    <published>2019-09-21T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>上线了，因为一些意料的事，需要修补数据库的数据，包括金额，充电量，2年前的统计数据等等，当然，这块不是我负责的，所以只能旁观。<br>另外还有部分web界面的调整，其中有些是之前提到要修改的。  </p><a id="more"></a><p>我和罗师傅主要是处理异常订单，因为当前的设计，所有的事都由我们负责的模块驱动，一旦出现异常，其它模块都有可能有问题，比如扣费异常，充值异常，匹配错误等。当初系统架构是我们大家一起确定的，以当初的认知是没有问题，只是有很多实情我们当时不知道，不知道怎么请教前辈，前辈们也不说。现在有什么坑基本上已经掌握了，但已经回天乏力，除非重构。  </p><p>所以只能每天处理异常订单。  </p><p>另外，因为工资好几个月没发了，积极性也没有了，所以过一天算一天。  </p><p>2019.9.22</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上线了，因为一些意料的事，需要修补数据库的数据，包括金额，充电量，2年前的统计数据等等，当然，这块不是我负责的，所以只能旁观。&lt;br&gt;另外还有部分web界面的调整，其中有些是之前提到要修改的。  &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>去邮政银行补全信息</title>
+    <link href="http://blog.latelee.org/life/%E5%8E%BB%E9%82%AE%E6%94%BF%E9%93%B6%E8%A1%8C%E8%A1%A5%E5%85%A8%E4%BF%A1%E6%81%AF.html"/>
+    <id>http://blog.latelee.org/life/去邮政银行补全信息.html</id>
+    <published>2019-09-16T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上起床看手机，同事在7点前发了信息叫我去办事，要8点半到那边，我回复说电车电不够，坐公交车去，要晚点，同事说好。趁办事的空隙，到邮政银行补全了个人信息。</p><a id="more"></a><p>其实上个月已经收到短信了，说信息不全，要补全，否则到下个月就不能交易了。但卡不在身边，想在网上银行改，提示U盾证书过期了，而手机银行密码忘记了。只能抽时间去网点办。这个卡我用的不多，只关联了三年一次转账的保险账号。</p><p>到了邮政银行，进门，办事的人不算多，但窗口有一半是空闲的。我想信息的填写不需要到柜台，就去问大堂经理，但大学经理正在帮一位大妈指导如何办理定期存款的事没空，最后问了保安，保安指着不远处的自助机器说在那边办。于是过到那边排队，想问正在指导办事的女同志，但没空理我，心想应该就是这里了。在排队时，听到后面有两位大妈在讨论退休金的事，一个说今年退休金又涨了几百，一个回道我的没涨，接着讨论她们高中的时光和同学。  </p><p>轮到我时，恰好那位女同志去帮一位老奶奶办理取款，走了，保安同志来接手工作。刷了身份证，并且人脸识别成功之后，点击客户信息，看到我的手机号码、地址、职位等都是空的。我在高中就办了邮政的卡，5年前换了芯片卡，当时是用身份证并开通了手机银行，但现在却没有这些信息。从身份证获取地址信息应该不难，而且没有手机号我觉得不应该。</p><p>可能银行系统更新过了，但有些信息没更新完，只能靠客户自行解决了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;早上起床看手机，同事在7点前发了信息叫我去办事，要8点半到那边，我回复说电车电不够，坐公交车去，要晚点，同事说好。趁办事的空隙，到邮政银行补全了个人信息。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019年中秋节记事</title>
+    <link href="http://blog.latelee.org/life/2019%E5%B9%B4%E4%B8%AD%E7%A7%8B%E8%8A%82%E8%AE%B0%E4%BA%8B.html"/>
+    <id>http://blog.latelee.org/life/2019年中秋节记事.html</id>
+    <published>2019-09-14T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>中秋节放假前一天，同事叫到楼下帮拿东西，原来是月饼，每人一个袋子。回家打开后，发现只有莲蓉和豆沙2种类型，并非盒子上列出的8种。不过有胜于无。只是工资只字不提。</p><a id="more"></a><p>今年不回家过节，因为老妈和大锤半个月前才上南宁，经常回家老婆也有意见。</p><p>13：<br>上午和大锤到友爱广场玩了半天，天气比较热，但那边有树荫，加上很久没陪大锤去那边了。</p><p>晚上吃了公司发的月饼，怕上火，不敢吃大多。准备睡觉时，发了条朋友圈，大意是发了月饼，没发工资，在找工作。</p><p>14：<br>上午继续陪大锤去玩，因为要让大锤多晒点太阳，虽然天气热，上午的太阳还不是很猛。</p><p>中午时分回家，大锤不愿意喝粥，跟他说不喝就罚他下去晒太阳，大锤还不知道什么叫“罚”，以为是去玩，高兴地去了，晒了几分钟又陪他上来了。</p><p>晚上带大锤去超市，顺便领钱给老妈做生活费。</p><p>15：<br>考虑很久，决定还是带大锤去博物馆，一来那边免费参观，二来试试坐地铁还会不会哭。因为天气火热，所以只有我和大锤去。<br>早上9点多出发，走路去火车站，一路上抱一会大锤，再让大锤走一会路，顺便跟他说红绿灯，危险的东西。火车站比较大，找个厕所找了很久，因为担心大锤在车上会尿尿。</p><p>10点钟上地铁，人比较多，有热心人让座，所以能坐着。担心大锤看窗外的东西会怕，就让他看地铁的电视，但他不愿意，倒也不哭。到金湖站转3号线，转线要走很远的路，但3号线人很少，大多数车厢是空的，大锤在里面也玩得开心。10点半到了博物馆站下车，出站后，周边车少人少，恰好飞哥微信语音，跟我谈相机监控的事，就一边谈一边走一边撑伞，大锤走累了就抱他，我手累了就让大锤走路，大锤也乖，没有哭闹。</p><p>大约半小时后，到了博物馆。进门要身份证，还要刷脸核实。里面可能举办完了什么活动，有一小部分的摄像机在录像，旁边有几个穿着东南亚服装的东南亚人在载歌载舞，大锤跑去看，但声音太大了，看了一会就抱他去二楼了。博物馆有很多值得细细品玩的东西，但太锤小，只知道看热闹，特别喜欢玩拼图和点击屏幕的按钮。</p><p>到了12点钟，喂粥给大锤，不喝，就吃了一个鸡蛋。随便去三楼玩。</p><p>到了1点钟就回去了，因为路上还要花时间，再晚的话，太阳更大。去地铁路上，也是撑着伞，有时抱大锤，有时让大锤走路。转1号线时，人太多了，一路都是站着抱大锤，还好只花十几分钟，能挺着。到了火车站，打算买冰激凌给大锤，但没找到，于是一边往回走一边观察商店，最终找到一家，花了4块钱买了，大锤一边吃一边走路。回到家后，差不多3点钟。其实大锤一路上也累，可能还不会表达，或者大一点之后，会抱怨天气太热，路太远。等他有自主意识后，再带去一次看看结果。</p><p>近半个月，大锤经常不按时吃饭，而且言不达意，前一秒说不吃，后一秒就吃。牙也不刷，有几颗牙齿已经黑了，买了牙膏，一开始抗拒，怎么劝也不听话，实在没办法，只能用强硬手段。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中秋节放假前一天，同事叫到楼下帮拿东西，原来是月饼，每人一个袋子。回家打开后，发现只有莲蓉和豆沙2种类型，并非盒子上列出的8种。不过有胜于无。只是工资只字不提。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>9月周末杂记</title>
+    <link href="http://blog.latelee.org/life/9%E6%9C%88%E5%91%A8%E6%9C%AB%E6%9D%82%E8%AE%B0.html"/>
+    <id>http://blog.latelee.org/life/9月周末杂记.html</id>
+    <published>2019-09-07T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>2019年9月份周末流水账。</p><a id="more"></a><p>一、<br>这段日子，天气实在是太热了。所以周末也不出去了。大锤不怎么吃东西，大人吃的时候，他在玩。晚上也是，有时候在9点多才肯吃饭。</p><p>昨天傍晚，把房间的2个窗口用铁丝网封起来，因为大锤发脾气时就扔东西下去，已经扔了一个拖鞋和几个玩具了，我担心把贵重的东西扔了，或者扔到其他人。</p><p>早上起来，因为大锤不愿意吃，我跟他说不带他去玩了，而且9点多的太阳都很大了。于是在家里把《声律启蒙》的几个音频片段剪切一下，合并成几个大的文件。大锤现在能说一东的第一段，但说得不流利，其它古诗也这样。<br>11点多，岳母和老婆联系，要我接她去火车站，还好车有一点电，于是骑车去接她。回来后，大锤还不愿吃东西，就跟他说下楼晒太阳，他也愿意去，晒了2分钟，就上来了。<br>到下午，大锤不愿睡觉，一直在玩，我躺在床上，他踩着我肚子跳，结果摔地上了，检查了没有什么大碍。<br>傍晚时分，大锤闹着去玩，我就带他去楼下的滑梯让他自己玩。<br>晚上吃饭时，大锤吃了一点菜，但没吃饭，吃完后，玩了一会，老妈给他洗澡，就喂肉粥给他吃。之后我去扔垃圾并充电，他也去，于是又陪他去了一次超市。</p><p>2019.9.8</p><p>二、<br>中秋节<br>主要在家里，陪大锤去了一次博物馆。</p><p>2019.9.15</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2019年9月份周末流水账。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子37：离职波折</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9037%EF%BC%9A%E7%A6%BB%E8%81%8C%E6%B3%A2%E6%8A%98.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子37：离职波折.html</id>
+    <published>2019-08-31T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>决定离职了。记录一下过程。</p><a id="more"></a><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>6月，应发工资日后10天，通知：5月份工资要晚点发，耐心等待（注：等待约20天）。<br>7月，应发工资日前一天，发了5月份工资。即6月份未发。<br>8月，应发工资日前、后，未见任何动静、消息、通知。<br>8月26日，同事在群里问何时发工资。回复最近回款有问题，正努力解决，耐心等待，争取月底解决工资问题。另：已向领导反应（应是“反映”）大家有贷款要还，家庭要照顾，希望能尽快回款发工资。<br>8月30号（周五）下午，同事问：最后一天了，真的会发么？未见回复。</p><p>9月1号：决定找工作。</p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>9月初：没找到好的岗位，找同学内推，未果。银行体系明年年初可能会招聘机会。<br>9.4：同事在群里希望中秋节前发一点钱过节，已经三个月没有收入了。回复说应该可以发，再等等几天。下午回复说和领导沟通了，领导正在想办法。<br>9.13：中秋节，发了月饼，未说工资的事。<br>9.23：同事说项目款已在“过会”，未透露细节。暂不懂是何东西。<br>9.24：同事微信发一个公司的招聘信息，公司未见。不知何意，未回复。<br>9.23~25：联系2个前同事，一是做充电业务，小公司，也有欠薪情况，一做人工智能，可内推，但团队不稳定。<br>9.28：与一公司领导面谈，领导请吃饭，路上顺便打简历和辞职申请书。<br>9.29：上午9点半正式向同事提交辞职申请书，申请书签名写日期。领导不在，交给同事。下班后领导找谈话。同事转发领导话，说10月可正常发工资，11月补齐。<br>10.9：下午请假到高新区一公司面试。中午同事说上月中旬发函给客户，因放假，且走流程，拖到现在，客户财务说明天付款到我方。<br>10.10：合同规定的发工资日，无任何信息，晚查银行卡，无。<br>10.12，周六补班：微信跟行政说，下周一办手续。<br>10.14：下午办手续。</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p>（未有）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;决定离职了。记录一下过程。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>李大锤成长记：大锤上南宁</title>
+    <link href="http://blog.latelee.org/child/%E6%9D%8E%E5%A4%A7%E9%94%A4%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%9A%E5%A4%A7%E9%94%A4%E4%B8%8A%E5%8D%97%E5%AE%81.html"/>
+    <id>http://blog.latelee.org/child/李大锤成长记：大锤上南宁.html</id>
+    <published>2019-08-31T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>8月30号，周五，老妈和大锤上南宁了。</p><a id="more"></a><p>前几天买火车票，本来我买到下铺，但打电话给老妈没接，于是没付款。后面通了电话，确定了本周上南宁，但再买就买不到下铺了。于是让老婆帮买，然后我转账。</p><p>周五不用去外场，早上到中午11点，间隔地打电话给老妈，没接。于是电话老爸问一下村里人，也没接，过一会，妈打电话来说已经到车站了，因为手机在包时没听到。之前有一次买票后说了日期，但妈没去，因为我说的日期和妈理解的不同，所以担心又发生一次。</p><p>过了5点半我就下班了。本来商量好我下班后去买菜了，但中午老婆发微信说已经买好了鱼和青菜了。回去路上，老爸打电话来问下班了没有，我说快回到了，然后交待我去接老妈。</p><p>后来妈来电话说火车晚点，到7点我就骑车去火车站了，在出站口等，7点半，火车终于到了，等人群走不多走完后，老妈背着大锤，挑到行李出来了。有吃的零食和花生油、竹笋干，我接了包，逗了大锤，发现他不认得我了，喊了几遍名字才有点害羞的表情，然后只是笑，没有说话。老妈说大锤在家里经常说话，我估计是普通话和白话穿插着的场合，大锤不知说什么，干脆就不说话了。</p><p>回到家前我跟大锤说见了妈妈要说妈妈好，回到后，大锤直接扑到妈妈怀里要抱了。放好东西后就吃饭了，老婆6点不到就已经煮好饭菜了。大锤不饿，我们吃饭时，他在边上玩了，很高兴，在床上跳上跳下的。</p><p>1号那天早上，老婆说带大锤去人民公园玩，就去那边玩了半天，天气太热，不敢在外面多呆。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;8月30号，周五，老妈和大锤上南宁了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="养娃记" scheme="http://blog.latelee.org/categories/child/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子35：二期上线</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9035%EF%BC%9A%E4%BA%8C%E6%9C%9F%E4%B8%8A%E7%BA%BF.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子35：二期上线.html</id>
+    <published>2019-08-14T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天同事要求今天早上7点到岗，进行二期系统上线的部署。临下班时，同事又一次提醒此事。晚上调手机闹钟为5点半，但不习惯早睡，不习惯早起，最终6点才起来，时间紧就没煮粥，就在附近买个包子，但时间太早了，人家没开门，于是一边骑车上班，一边观察包子店铺是否开门。最终如愿买到包子，也在7点半到达公司。<br><a id="more"></a></p><h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><p>7时许，同事陆续到岗。根据安排，正式启动部署行动：<br>同事切断一期系统充值、扫码等通道。<br>我更新中间件，切断与一期系统的交互。<br>后台同事导出一期数据，再导入二期系统。<br>7点40完成，新系统正式上线。</p><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>但还是出现一些问题：<br>在升级期间，有几个订单依旧存在，当这些订单产生时，二期系统还不知道在何处，当这些订单结束时，二期系统不知如何处理。<br>一期的数据是昨天下午的，即昨天下午到今早，在手动在数据库中添加记录，而不是“导入”。<br>甲方的大领导、中领导在昨天将新系统上线的通知大发朋友圈，部分用户已经使用二期APP充值。<br>短信验证大半年时间没申请下来，APP没有短信功能，导致注册无须验证码（间接导致有的用户没有手机号），没有找回密码功能。</p><p>产生问题的背景及困境：<br>由于一期已经在生产环境使用，不能影响，但二期又要测试并上线，故而存在一个兼容期，即两个APP都可使用，但两个账号账务系统(充值消费)不同，中间件模块同时兼容一期二期后台。在上线前，APP和后台其实已经可以正常使用了，只是一些数据没有同步。</p><p>在4月中旬，同事叫我写升级方案，我在方案中提出中间件兼容后台、APP预先内部测试，通过后让部分用户使用新APP，权当内测（可以有一定程度优惠）；升级期间，现场工作人员对用户进行干预、指导，如果不派人，由我方工程师到现场。<br>不过后面因为服务器受攻击处理了很久，甲方不知道升级方案（因为同事没提交），后来因为投标的事拖了一段时间，再后来又因为有新业务，于是拖到了8月份（也间隔导致撰文此刻前2个月没发工资）。但总归让二期系统上线了，接下来就要处理各种各样问题了。</p><h2 id="经验"><a href="#经验" class="headerlink" title="经验"></a>经验</h2><p>1、应该完成短信认证模块。从功能提出到系统上线，过了大半年，但甲方未申请完毕。此问题因权限无法完成。但让别人看到，会认为这个APP不成熟，不专业——当然，绝大多数用户只要功能正常就行了。<br>2、软件下载使用不能提前，不能扩散（据说APP同事是在半夜上线ios版本的）。<br>3、后台账号权限明确，维护人员、财务人员、领导等等。(同事以为甲方公司管，甲方以为我司管。实际应是甲方公司，但需要明确告知并培训)。</p><p>沟通方面总结：<br>1、别人以为你知道，你以为别人知道你不知道，双方都在内心深处沟通，于是出了问题，往往只能说“我不知道”。<br>2、你以为甲方知道，甲方以为你知道，于是都默认某一种行事方式，于是很多杂事抛不开，推不掉，从管理学上讲，“猴子”继续在你身上趴着。<br>3、有些坑，同事知道，同事以为你知道，在你不知道情况下又要让你处理，往往处理不好。<br>4、多方沟通过程中非常耗时，也会有很多噪声，或多加信息，或隐藏信息等，都会带来不同的结果。这里的沟通一般在微信群里进行，较少电话沟通、极少面谈。另外，沟通方有甲方、甲方A、厂家、我方，外加客户、工程实施人员等，关系错综复杂，导致一个问题可能要花一周时间才能解决，有时要在不同时间向不同的人描述同一个问题。<br>5、只有掌握一定信息，加上一定经验，才能对风险有准确的评估，做出的举措才有效。没有信息情况下应付风险，只能停留在纸面上而已，甚至有加大风险的风险。</p><p>不管怎样，在自己能力范围内把事做好即可，做到问心无愧就行。</p><p>2019.8.15 夜 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天同事要求今天早上7点到岗，进行二期系统上线的部署。临下班时，同事又一次提醒此事。晚上调手机闹钟为5点半，但不习惯早睡，不习惯早起，最终6点才起来，时间紧就没煮粥，就在附近买个包子，但时间太早了，人家没开门，于是一边骑车上班，一边观察包子店铺是否开门。最终如愿买到包子，也在7点半到达公司。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子34：参加厂家技术视频会议</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9034%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%8E%82%E5%AE%B6%E6%8A%80%E6%9C%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子34：参加厂家技术视频会议.html</id>
+    <published>2019-08-13T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>上周，与甲方A合作的厂家说下周二下午3点进行视频会议。周二，即前天通知会议改为周三，时间不变。</p><a id="more"></a><p>于是周二紧急制定计划，因为周四——即明天新系统要上线。于是吃完饭就出发甲方公司借物流车，同事、罗师傅和我三个人一同去测试，先后去了体某站、五某站，维某站，二某站，东某站等等测试新版本APP，到还车时，已经6点半了。由于没准备好，只带了一瓶水，同事在我和罗师傅测试时去买了2次水，因为不用花费，所以有了水补。</p><p>今天上午，甲方A的工作人员又一次在群里提醒，并且at了同事和我，我和同事分别作了回应。<br>午睡后，2点多就收拾电脑，因为目的地不太熟悉，就打算早点过去。收拾好后我去找同事，没找着人，估计已经去了，所以我也骑电车出发了。在路上，有电话来了，是同事打来了，交待一番，大意是他不去了。</p><p>南宁的天真的热，骑车快与骑车慢好像没区别，都那么晒，特别是午后2、3点的时间段。好容易到了目的地，碰到甲方技术部经理，停好车后，开聊，原来他也是领导通知来开会的。小区有刷卡进不去，根据门铃提示操作了，似乎门开了，但就是推不动，拉不开。跟门卫打招呼，可能窗户太厚，没听到。随后有个美团外卖的小哥，可能送惯了，他叫门卫开门，我们就顺势进到小区里了。根据指示牌，找到了厂家所在那栋楼。<br>按了电梯，等了一会，有人从电梯出来，问我们是不是来开会了，我们说是，他说我们先上去，然后帮刷卡，按楼层。于是我们终于顺利到达会议室。<br>不一会，各方领导都来了，大家热烈地讨论今晚杀鸭进展到哪一步骤的，有的领导说大领导早已回家了，有的领导说已经拔鸭毛了，有的领导还没开始。</p><p>会议没人主持，到3点了，都在等。后来甲方A的小同志根据打印纸上的问题一一列举出来，然后大家讨论。最后我也说了几个问题，都是和罗师傅已经定位到电桩的问题。</p><p>有一个是VIN识别问题，我看了几次协议文档，没找到，但对方一致认为有了此功能。为了证明清白，我让旁边的厂家技术员也看了协议，几个回合后，最终才知道原来厂家给我们看的协议文档，是修改后的，有2个地方是VIN字段，但去掉了解释，并写上“预留”。由于甲方A比较急，他们接着讨论如何优雅关电的事，这与我无关，就当场修改代码，开热点，将代码上传gitlab，再登陆服务器更新代码，重启服务，完成（后来发现还有个步骤没做，所以页面上没有看到）。</p><p>到5点半时，大家就散会，领导们又一次讨论今天公司有没有发福利，问到我时，我如实说没有。</p><p>虽说按这里的习俗应该吃鸭肉，不过周日买了很多菜，所以只好入乡不随俗了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上周，与甲方A合作的厂家说下周二下午3点进行视频会议。周二，即前天通知会议改为周三，时间不变。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子33：二期再次测试</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9033%EF%BC%9A%E4%BA%8C%E6%9C%9F%E5%86%8D%E6%AC%A1%E6%B5%8B%E8%AF%95.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子33：二期再次测试.html</id>
+    <published>2019-08-08T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>前天同事说二期准备上线了，每个协议的场站要过一遍，本来约好5个人一起去的，后面讨论变成4个，再讨论变成3个。</p><a id="more"></a><p>早上8点出发，8点半到甘师傅小区停车，坐甘师傅的车一同去甲方公司借车，9点到那边，罗师傅也到了。借了车才发现是物流车，只能坐三个人，还好人数刚刚够。<br>接着出发去某东站测试，扫码测试后发现没有扣费，甘师傅排查后确认是扣费模块出错。我顺便去值班室拿加在我的鼠标。最后讨论决定，开车回甲方公司，让甘师傅开车回公司修改，我和罗师傅在外面测试，有事QQ上沟通。<br>接着出发去某溪站测试，问题依旧。接着去某湖站，其时已近中午，就停车假装充电，去附近吃了碗拉面，再开车回某溪站，因为那里有树荫，中午比较凉快。<br>中午时分，甲方A和同事、厂家工程师在群里讨论问题，强烈要求我们去他们的场站测试问题，2点多出发去某福站，用一期APP和二期APP扫码充电关电，未见异常，汇报后，出发去某塘站测试，随后去某天站测试，最后去甲方公司所在的场站测试。一个下午就过去了。主要是路途遥远，停车麻烦。因为是物流车，又高又长，停车位地方不够，要占用1个半左右，少不了保安指导一二。<br>还车时，因为车内有空调不热，于是在太阳下晒了几分钟，出出汗，让甲方领导看一下辛苦的样子，不过领导去开会了。只好还车钥匙给另外的工作人员，附后从罗师傅的车去甘师傅小区，然后分道扬镳。</p><p>虽说已过立秋，东边台风严重，但并未影响西南边陲。南宁这些日子都是烈日当空，可惜我司工作人员跑外场没有什么水补，饭补或高温补。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前天同事说二期准备上线了，每个协议的场站要过一遍，本来约好5个人一起去的，后面讨论变成4个，再讨论变成3个。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我在外包的日子32：这段时期的流水账</title>
+    <link href="http://blog.latelee.org/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%9032%EF%BC%9A%E8%BF%99%E6%AE%B5%E6%97%B6%E6%9C%9F%E7%9A%84%E6%B5%81%E6%B0%B4%E8%B4%A6.html"/>
+    <id>http://blog.latelee.org/我在外包的日子/我在外包的日子32：这段时期的流水账.html</id>
+    <published>2019-08-06T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录一下7月中旬到现在的工作流水账。<br>去现场，不管是保安同志，还是经理级别同志，亦或与甲方有合作的甲方A、甲方B等，都叫我为李师傅，叫罗工为罗师傅。年纪大了，名头也上去了。</p><a id="more"></a><h2 id="流水0"><a href="#流水0" class="headerlink" title="流水0"></a>流水0</h2><p>7月份说月底上线，不过没什么消息，见过同事去客户那边开会，但不知道有什么消息。</p><h2 id="流水1"><a href="#流水1" class="headerlink" title="流水1"></a>流水1</h2><p>7月22号，同事说25号要把金某站上线。金某站与甲方A主导的，只是利用甲方的平台，其它都是甲方A做的。甲方A与甲方可能达到了深度合作框架，总之，甲方A叫我们去哪里就要去哪。因为之前1个多月都没有消息，当时已经向同事提出困境：如果兼容一期，代码要再写，如果等二期，二期又没上线。当时同事没定定论，我就暂时不管了，但也偷偷把兼容部分的代码写了。<br>24号，同事与甲A领导约定10点到金某站。25号10点如约到站，未见人。正与门卫闲聊以了解充电桩的情况，甲A公司的现场专员来了，但他只是来了。我设置了服务器IP和端口，发现网络连接不上，问厂家领导，厂家领导问厂家的现场工程师，但工程师去了另一个维某站（可能沟通不到位），于是等，其间也在群里把甲A领导反馈，于是群里开始讨论流量卡是否欠费等问题。等到11点半多，厂家工程师来了，问我为什么连上不网，我说不知道，服务器是好的。于是工程师开柜门，发现里面的网线没插。工程师就说没插网线，怎么能连网呢。反正这事不归我管。<br>到了12点，把设备编号给同事，等同事生成二维码，然后准时下班。<br>下午2点40分到站点，甲方A的运营经理和专员还有电动汽车已经在等候了，刚到站点，另一位专员打我电话问我什么时候到。原来这位专员是等候在那里的经理的下属，可能刚刚之前经理问专员，专员才打我电话的。<br>接着开始测试，同事把所有的桩的二维码打包成rar文件，发到群里，我手机打不开，就开电脑解压，然后用手机扫码。测试还算顺利，因为接入新场站只是修改一部分模块，流程是没什么问题的。不过发现有一个桩在开电后会自动断电，试了几次，都如此，于是初步是桩的问题。<br>测完了，没问题就等待下班。在5点半时分，准备下班。后来一想，应该先去附近菜市场买菜，然后等待下班时间，再打卡回去的，有点失策了。</p><p>经验：沟通交流不充分，我方以为在金某站，厂家以为在维某站。我方以为电桩网络是好的，厂家以为是我方没插网线。真正干活只有下午半天时间。</p><h2 id="流水2"><a href="#流水2" class="headerlink" title="流水2"></a>流水2</h2><p>8月1号，同事说要接入甲方A在鸿某站的桩，在群里与甲方A约定10点钟，晚上单独发消息给我9点到那边。因为设备编号加入数据库生成二维码要时间。2号早上，下点小雨，9点如期到鸿某站，打卡，看桩信息，已经修改好IP和端口了，于是记录编号及对应关系，发给同事，同事那边生成二维码。接着甲方A运营经理开车来了，但电动汽车没到，经理呆了一会，跟我说电动车等下就到，然后说了声辛苦了就开车走了。<br>甲方A现场专员随后就开电车到了，当时还没到10点，可能经理也催了一下。得到二维码后，开始扫码测试充电，发现在首次充电时，充电量比较大，没有规律，我试了2、3次，1千多块钱就没有了，于是在群里跟同事反应，然后帮充值。我一看，充了1万多——要是真有那么多就好了。<br>接着测试比较顺利但耗时，每个枪都试了2、3次，第1次的总是不对，我和罗师傅讨论了半天，一致认为是数据库初始电量初始化的问题造成的，因此，以后每个枪第一次充电都是错误的（我和罗师傅称之为“第一枪”）。<br>到12点，准时下班，冒雨回公司。下午，在公司与体某站的司机在调试VIN充电功能。因为前几天同事说那个站要更改程序。<br>昨天同事与甲方约好今天调试（注意，只是“今天”），接着又让我今天上午去鸿某站，我以为同事已经安排好时间了，结果我早上时接了很多个电话，是体某站谭师傅打来的，在我是不是在调试，我回复说在另外一个地方调试另外的站，然后让他问他们的领导。接着他们的领导打电话给我，我又复述一次，然后让他找同事。下午上班，跟甲方领导说可以调试了，但谭师傅不知道怎么操作，在指定交流群里厂家技术人员，技术人员问我方同事，我方同事问甲方，甲方说不知道如何操作，然后又轮到我头上了，我又问甲方技术人员，甲方技术人员说点屏幕上出现的VIN界面就行，我跟师傅说，师傅说没看到。随后在研究如何操作的问题上展开多方讨论交流，包括微信、电话等手段。最后搞明白了，原来要在电桩设置一个参数才会出现。<br>最终调试通过。后来谭师傅打电话，说用一辆出租车来测试，是无法使用VIN的，我没想到谭师傅也有这方面的测试意识。</p><p>经验：数据库的初始电量为0，但电桩电量读数比较大（估计是厂家调试时产生了读数），而后台是根据电表读数来确定充电量是多少的，所以首次充电，就出现问题。</p><h2 id="流水3"><a href="#流水3" class="headerlink" title="流水3"></a>流水3</h2><p>8月4号周日，本来是休息的，上午甲方A运营经理打电话问我屏幕上二维码怎么改。这个问题我很早就问过厂家说，对方回应要改程序，后来就没下文了。其实，扫码都是使用粘贴的二维码的，不使用屏幕上的，可能甲方A要求完美吧。我回复说我不太清楚，要问厂家——毕竟电桩厂家对电桩的了解，比我深入多了。后来厂家在微信问，我回复说找找同事，然后在指定交流群at同事，同事回复“稍等”。后来甲方A的现场专员也在微信问我此事，说他们领导找他问，他来找我问问。我说已经问同事了，在等回复。后来专员又催我了，但同事没回复，实在没法，把同事微信给我专员，然后在群里跟同事说此事。接着同事在群里回复说已经发给专员了。这一“稍等”，花了有4、5个小时。<br>晚上，指定交流群里讨论得热火朝天，听他们讨论，原来明天要上线，所以今天要加班加点。其实从5月中旬开始到现在，已经过去很久很久了，中间因为什么原由，发生什么，我不清楚，我往往最后得到消息，因此时间比较赶。但也能在他们要求的时间点前完成任务。比较甲方A目前的2个场站，除了有一个桩无法充电外，其它所有的桩都测试过了。<br>到了深夜，依然在讨论，主要是充电方面的问题，包括APP充不了电，APP显示不了信息，扣费错误，等等。到了凌晨，依然在讨论，因为没有明确点名到我，我就不发言。到了1点多，还在讨论，最后，同事说派工程师过去，接着，同事在QQ上发信息给我，叫我和罗师傅明天挑一个近的场站去看看情况。接着在内部交流群at我和罗师傅，叫我们明天挑一个近的场站去看看情况。然后我在指定交流群里at同事，询问什么时候。到2点时，没回应，我就at罗师傅，说一起去金某站，甲方A经理说维某站也有问题，我又at罗师傅，他去维某站，我去金某站。2点多，同事说解决问题了，现在显示正常了。但没明确说明天我要不要去场站。<br>8月5号，准备拿小板凳出门，同事打电话说不用去场站了，先去公司。上午，几乎在看他们讨论充电问题，包括开不了电，关不了电。我负责查报文，跟同事反馈。将近中午时分，同事说要去甲方那边开会，叫我和罗师傅看着，如果有问题，下午去场站（但没说去哪个）。下午，我和罗师傅讨论去鸿某站，在指定交流群里跟甲方A说，但甲方A说维某站出问题，于是决定去这个场站。罗师傅因为搬新家，所以开了四轮车来，他开车去，我骑车去，因为公司在东边，维某站在西边，我租房在中间，这样去是最好的。到了那边，甲方A另一位老总也到了，厂家的主任也到了，他们在旁边抽烟谈论着什么，看来事挺大的。<br>但是，电动汽车没到，而私家车在充电，不可能配合来测试的。于是等，到了4点多，老总说回去派辆车来。接着等，老总回来了，车子没到。到5点半，跟老总说先下班了，老总说车子马上就到了，于是作罢，继续等。近6点时分，车子到了，老总亲自用APP扫码充电，成功，关电，成功。接着我在后台手动发指令，开、关电都成功。6点半，下班走人前，在钉钉上打卡，申请外出，我写到6点半，但系统只认可5点半——因为公司是5点半下班的，这样，白白浪费了一个小时。</p><p>经验：充电过程，涉及到APP、后台、中间件，有时网络不通，某个环节出错，就无法充电，此次甲方A经理反映的某个桩充不了电，就是这方面的原因。涉及多方协作，有些事还是要充分交流，统筹安排，否则就要白白等待。如果是小兵小将，不能越位指挥，只能顺从，管好自己的事，管好自己的嘴。</p><h2 id="流水4"><a href="#流水4" class="headerlink" title="流水4"></a>流水4</h2><p>8月5号下班后——是的，在维某站回去的路上，甲方技术人员打电话，叫我去良庆区接入新场站。上周已得到消息，知道本周要去那边接入，除此外没其它信息。问了两站网络怎么接，怎么拿流量卡等。甲方也不太清楚，于是他就建立了指定交流群。叫我明天去借车去良庆。</p><p>8月6日，我骑车去甲方本部，由于不知道要去多少人，和罗师傅讨论，先让我去。在路上不太放心，于是电话问甲方技术人员，技术人员说就你们和厂家去，我不去。我一听慌了，因为我不会开车，打电话给厂家，厂家也说不会开车，于是我跟罗师傅通话，刚好罗师傅开车到快环，于是约定在甲方公司那边会面。<br>9点准时到，罗师傅也在那里了，过一会，厂家师傅也来了。于是去三楼借车钥匙，拿流量卡，甲方派了一位师傅过去，一共4人，驱车去场站。于是不认识地方，就导航去，虽然走了一些弯路，但在10点半到了场站。是一个政务中心大楼。停车后，保安过来要求车头向外，我们解释电动车的充电口在车头，所以车头要向里。过一会，一位经理模样的经理也要求车头向外，我们重复解释了一遍。<br>厂家师傅检查了桩，查施工图纸，发现有些线接错了，甲方师傅修过车，拧螺丝比我和罗师傅在行，我们只敢搭把手，不敢随便动。搞好后，厂家师傅调试桩，每个桩都要通电。这么一样，就到12点了。我这边的工作还没得展开。<br>由于我带了饭，他们叫外卖，因为周边似乎没有成熟商圈的迹象，而政务大楼肯定有自己的食堂。过了半个小时，外卖到了，一起到办事大厅里吃饭，因为已经下班了没人，而且里面有空调。准备吃完时，工作人员说要关门了，于是赶紧吃完，就到其它地方休息，他们去车上吹空调，因为我闻不惯车内味道，就去二楼休息。<br>下午正式开始软件调试，查询编号，发给同事生成二维码，不过，有2个桩查不到报文，而且大部分桩无法开电、关电，反馈给厂家师傅，但厂家师傅对软件层面的东西了解不多。最后决定由充电桩手动给电车充电、关电。之前没有连接车辆开电，现在连接车辆开电，先确保硬件没有问题。测试完后，都快5点半了，机关单位的工作人员陆续走出大楼，或骑电驴，或开小车，回家了。我们也回去还车了。</p><h2 id="流水5"><a href="#流水5" class="headerlink" title="流水5"></a>流水5</h2><p>8月8号，甲方通知8月10号去良庆，但昨天同事已经安装10日进行二期APP的测试。在微信群里兜兜转转几个回合后，我打电话给厂家师傅。约好下周一去场站。<br>8月12号，早上再次在微信里确认时间地点，与罗师傅分头到甲方公司借车，出发到场站，厂家师傅已经在那边安装模块了，由于是政府机关的地方，充电桩的停车位停满了小车，我们的电车无处安放。最后罗师傅使出驾驶绝技，既不影响现有停放的小车，又不影响小路通行，而且能让充电枪刚好连接电车的接口。随后测试发现，现象与之前的场站完全一样。有的能开电，有的能关电。跟师傅说了困境，师傅向技术人员反馈，等了一会，没见有信息，于是向甲方领导汇报，再向同事汇报，接着就回去还车，然后骑电驴回公司上班，回到公司，已经12点半了。吃完带的饭菜，睡了一会，接着在群里与甲方A扯报文的事情。</p><p>PS：指定交流群，一般用于指定事务的交流，一般地，有多少个事务，就会有多少个指定交流群，是的，这样的“微信办公”，已是常态。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录一下7月中旬到现在的工作流水账。&lt;br&gt;去现场，不管是保安同志，还是经理级别同志，亦或与甲方有合作的甲方A、甲方B等，都叫我为李师傅，叫罗工为罗师傅。年纪大了，名头也上去了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="我在外包的日子" scheme="http://blog.latelee.org/categories/%E6%88%91%E5%9C%A8%E5%A4%96%E5%8C%85%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    
+    
+      <category term="外包" scheme="http://blog.latelee.org/tags/%E5%A4%96%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>南宁博物馆游记</title>
+    <link href="http://blog.latelee.org/life/%E5%8D%97%E5%AE%81%E5%8D%9A%E7%89%A9%E9%A6%86%E6%B8%B8%E8%AE%B0.html"/>
+    <id>http://blog.latelee.org/life/南宁博物馆游记.html</id>
+    <published>2019-07-28T13:21:08.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>前几天和罗工讨论商量去博物馆看西泠印社书画展，周六上半天班，而且离那边也不远，计划下班之后去，不过罗工今天有事，于是我就一个人骑电车去了。<br><a id="more"></a></p><p>中午下班后，打卡，就直接过去了，天气非常火热，包里装了2瓶水。大概半小时就到博物馆了，其时人不多，到门口，工作人员叫我拿身份证放到机器上识别，然后人脸识别，顺利通过。<br>首先去了西泠印社参观，这是平生第一次近距离看到名家的字画，篆刻。看了西泠印社的图片，以及各大名家照片，遥想当年他们的风采，李叔同的字，丰子恺的画比较有特色，辨识度高。另外还细细观看了张大千，潘天寿，吴昌硕的画。但是，毕竟自己学识有限，仅仅是观看而已，谈不上观赏。<br>随后看了陈星州的书画展，他是玉林人，比我大几岁，成就很大，周游世界，见过很多大人物。展示的多数是荷花，颜色鲜艳，饱满，栩栩如生。与传统山水画有着明显的差别。<br>另外，还参观了其它展馆，了解了广西的文化，“那文化”，南宁明代、清代、开关、兵变、成立、改革等等一系列历程。  </p><p>近2点时分，来博物馆的人特别多，排起长龙。有带老人的，有带小孩的，有年经人组队的。里面很多老物件已经在日常生活看不到了，如果有机会，要带大锤来看看。</p><p>本来是想叫老婆一起去的，嫌远，太阳也大，于是作罢。</p><p>人总要做一些超越物质的事情，参观，读书，听歌，放空，等等。在博物馆里，我可以不管炎热的太阳，旁边高高的房价，生活的琐事，工作的不爽，可以畅想大师的精神风貌，幻想与大师交流。<br>——哪怕是片刻。</p><p>片刻之后，顶着烈日骑一个小时的电车，回到租房，喝完2瓶水，手黑了一层。</p><p>2019.7.28 周六</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前几天和罗工讨论商量去博物馆看西泠印社书画展，周六上半天班，而且离那边也不远，计划下班之后去，不过罗工今天有事，于是我就一个人骑电车去了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+      <category term="数码" scheme="http://blog.latelee.org/tags/%E6%95%B0%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>语法：N5文法</title>
+    <link href="http://blog.latelee.org/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E6%B3%95%EF%BC%9An5%E6%96%87%E6%B3%95.html"/>
+    <id>http://blog.latelee.org/日语学习/语法：n5文法.html</id>
+    <published>2019-07-26T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>N5文法</p><a id="more"></a><p>N5文法01「名詞-主述表現」~は~です<br>文型：名詞A + は + 名詞B + です</p><p>日文句子結構為「主部 + 述部」，主部就是一句話的主題（也稱主語、主詞或主格），述部就是對這個主題做說明或描述，初學階段先學名詞用法，故「名詞A」就是主部，「名詞B」就是述部。注意：當「は」為助詞時，發音須改為「は（wa）」。</p><p>私は学生です。🔊<br>我是學生。<br>あの方は先生です。🔊<br>那位是老師。<br>こちらはハイブリッド車です。🔊<br>這個是動力混和車。</p><p>N5文法02「名詞-中止形」~で~<br>文型：名詞 + で<br>將句子中斷，相當於逗號的功能，又稱為「中止形」。</p><p>私は学生で、先生ではありません。🔊<br>我是學生，不是老師。<br>私は学生で、小田君は学生ではありません。🔊<br>我是學生，小田不是學生。<br>これは冷蔵庫で、冷凍庫ではありません。🔊<br>這是冰箱，不是冷凍庫。<br>動詞、形容詞也可以接中止形，這裡初學階段先學名詞用法。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;N5文法&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="日语学习" scheme="http://blog.latelee.org/categories/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>单词：音读与训读</title>
+    <link href="http://blog.latelee.org/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/%E5%8D%95%E8%AF%8D%EF%BC%9A%E9%9F%B3%E8%AF%BB%E4%B8%8E%E8%AE%AD%E8%AF%BB.html"/>
+    <id>http://blog.latelee.org/日语学习/单词：音读与训读.html</id>
+    <published>2019-07-25T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>音读与训读方面的学习、记录。</p><a id="more"></a><p>音訓 おんくん ：</p><p>音読 おんどく ：是指以汉语为读音（或近似），有汉音、唐音、吴音<br>訓読 くんどく ：以日语发音，但以汉字为形。</p><p>人：<br>じん： 日本人<br>ひと： </p><p>中：<br>：中国<br>：中间</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;音读与训读方面的学习、记录。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="日语学习" scheme="http://blog.latelee.org/categories/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一些英文缩写</title>
+    <link href="http://blog.latelee.org/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/%E4%B8%80%E4%BA%9B%E8%8B%B1%E6%96%87%E7%BC%A9%E5%86%99.html"/>
+    <id>http://blog.latelee.org/人文社科/一些英文缩写.html</id>
+    <published>2019-07-21T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>Internet slang here.  </p><p>RTFM means “read the fucking manual”. In expurgated texts, substitutions such as “read the frickin’ manual”, “read the factory manual”, “read the flaming manual”, “read the fine manual”, “read the friendly manual”.<br><a id="more"></a></p><h2 id="some-other-interpretations-of-RTFM"><a href="#some-other-interpretations-of-RTFM" class="headerlink" title="some other interpretations of RTFM"></a>some other interpretations of RTFM</h2><ul><li>“read the fucking mail” (usually referring to e-mail)</li><li>“read the fucking Mail” (referring to the Daily Mail newspaper)</li><li>“read the fucking memo” (office setting)</li><li>“read the fucking message” (office setting or computer support)</li><li>“reboot the fucking machine” (computer support)</li><li>“reset to factory mode” (some routers and devices)</li></ul><h2 id="some-other-similar-initialisms"><a href="#some-other-similar-initialisms" class="headerlink" title="some other similar initialisms"></a>some other similar initialisms</h2><ul><li>RTBM (“read the bloody manual”) (In some countries, e.g., the UK and Australia, this is a fractionally more polite * alternative with identical meaning[5])</li><li>RTFA (“read the fucking/featured article”—common on news forums such as Fark.com[6] and Slashdot, where using “TFA” * instead of “the article” has become a meme)</li><li>RTDA (“read the damn article”)</li><li>RTDM (“read the damn menu”)</li><li>RTDM (“read the damn manual”)</li><li>WABM (“write a better manual” – an answer complaining that the manual is not written well)[7]</li><li>RTFE (“read the fucking error”)</li><li>RTFM41 (“read the fucking manual for once”)</li><li>RTFW (“read the fucking wiki”)</li><li>RTFC (“read the fucking chart” – a response that Physicians give to coders who submit inappropriate queries)</li><li>RTFS (“read the fucking source” or “read the fucking standard”)[8]</li><li>RTFB (“read the fucking binary”)[9]</li><li>RTFQ (“read the fucking question”)</li></ul><h2 id="other"><a href="#other" class="headerlink" title="other"></a>other</h2><p>FYI “For Your Information”.<br>TL;DR(tl;dr or TLDR) too long; didn’t read.<br>BTW By the way<br>ASAP As soon as possible<br>BBL Be back later<br>BRB Be right back<br>CU See you<br>FTF Face to face<br>IC I see<br>WTF What the fuck</p><p>most from <a href="https://en.wikipedia.org/wiki/RTFM" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/RTFM</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Internet slang here.  &lt;/p&gt;
+&lt;p&gt;RTFM means “read the fucking manual”. In expurgated texts, substitutions such as “read the frickin’ manual”, “read the factory manual”, “read the flaming manual”, “read the fine manual”, “read the friendly manual”.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="人文社科" scheme="http://blog.latelee.org/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/"/>
+    
+    
+      <category term="读书笔记" scheme="http://blog.latelee.org/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>入手第二块键盘</title>
+    <link href="http://blog.latelee.org/life/%E5%85%A5%E6%89%8B%E7%AC%AC%E4%BA%8C%E5%9D%97%E9%94%AE%E7%9B%98.html"/>
+    <id>http://blog.latelee.org/life/入手第二块键盘.html</id>
+    <published>2019-07-21T14:51:50.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近考虑再买一块键盘。<br><a id="more"></a></p><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>大约一年前，李大锤的动手能力非常强，租房里的东西没少被他破坏，我的thinkpad键盘就是被大锤在一段较长时间内慢慢扣掉按键的，最终无法复原，只好买外接的键盘。  </p><p><img src="入手第二块键盘/20180706.jpg" alt></p><p>买第一块时，并没有留意太多细节，买回来后，使用非常不习惯，因为写程序和打字的关系，对某个按键的布局、距离非常敏感，不习惯就是不习惯。这个键盘是白色且小型，就送给老婆，好像后来也没使用过。又购买一款104按键的，这次符合使用习惯了。一直使用至今。换工作后，由于要去现场测试，花了150多大洋买了非原装的thinkpad键盘，用了几天就失灵了。  </p><p>前几天发现背包顶部坏了，原来是键盘太长，被键盘角顶破了。而近2个月来，上班都是带饭去的，背包空间不够，为了防止背包进一步损坏，就考虑入手一个87键的键盘。  </p><h2 id="考虑"><a href="#考虑" class="headerlink" title="考虑"></a>考虑</h2><p>键盘是87键，这是必须的。<br>考虑机械键盘，因为这几年已经流行了，但价格比较高，声音比较，也比较重。虽如此但自己又想体验一把机械键盘感觉。<br>考虑普通键盘，价格比较便宜，但键帽要能扣下来。因为可以给大锤练练动手能力。<br>考虑再三，决定在闲鱼上买一个入门级别的二手机械键盘。</p><h2 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h2><p>昨晚其实已经购买了，连运费共61元，但早上发现卖家昨晚退款了，问之，回复说有人出高价，没办法，又继续找，最后找了一个60包邮的，已经谈好下单了，但卖家说邮费太贵了，要20块钱，要我补，我本来已经说了退款，但卖家说补10元，想了想，已经下单了，就补10块过去。后来卖家又发信息说邮费要25块，我就不理他了。  </p><p>过了3天，周二货到，由于二手商品的特殊性，拆箱过程录了视频，还好，键盘外观没啥问题，下载软件测试按键，没发现什么问题，比原先的键盘稍重了，但还是在可接受范围。于是确认收货。至此，键盘入手完毕。</p><h2 id="再入手一款新键盘"><a href="#再入手一款新键盘" class="headerlink" title="再入手一款新键盘"></a>再入手一款新键盘</h2><p>7.27：<br>不知怎的，经过一段时间，使用这款黑轴键盘，经常打错字，网上说法是“误触”。已经小心了，但打快了，经常有多余的键，导致出错。比如打“redis”会出来“rredis”。删除键会多删除一个字符，等等。网上查了，黑轴、红轴会有误触现象，青轴没有，但青轴声音太大，于是，最后决定去某东买一款新的茶轴，99块，也是这个牌子，一来价位低，二来这个价位的这款外观比较好看。<br>次日到货，开箱使用，没见什么问题。用了约一周，也正常。误触这个问题，不知是轴本身，还是使用时长问题，待观察。</p><h2 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h2><p>机械键盘与薄膜键盘手感的确有不同，这款机械键盘在声音和敲击上优于之前买的键盘。但我感受不出网上那些“cherry的春天”描述。对我而言，购买87键盘主要是为了键盘长度短一些，顺便体验一下机械键盘。</p><h2 id="经验"><a href="#经验" class="headerlink" title="经验"></a>经验</h2><p>对于这类数码产品，还是一次性确定后再下手，与其少20、30块钱，不如买新的。现在看，买键盘一共花了170块钱。</p><p>2019.7.21 周日</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近考虑再买一块键盘。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+      <category term="数码" scheme="http://blog.latelee.org/tags/%E6%95%B0%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>李大锤成长记：大锤回老家</title>
+    <link href="http://blog.latelee.org/child/%E6%9D%8E%E5%A4%A7%E9%94%A4%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%9A%E5%A4%A7%E9%94%A4%E5%9B%9E%E8%80%81%E5%AE%B6.html"/>
+    <id>http://blog.latelee.org/child/李大锤成长记：大锤回老家.html</id>
+    <published>2019-07-20T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天老妈带大锤回老家了。</p><a id="more"></a><p>其实老早就计划着回家了。这里夏天太热了，老家凉快一些。而且现在放暑假，村里有很多小孩子在。<br>我和老婆提出时，老婆第一反应，说有老人在家猝死，小孩饿死之类的新闻。我说如果担心就不要让大锤回老家。<br>过几天，老婆说也不是不让大锤回去，回去的话，要叫老妈注意安全，注意陌生人，去大街要拉小孩的手，等等。无论我提什么，总是能从反面出发找到说词。我隔几天都会看一些车祸或小孩走失的新闻，对于大锤的安全，并不亚其他人。<br>前几天，大姐发微信，说奶奶摔跤了，要住院动手术，要花5万多块钱。我回复说我妈过2天就回去。    </p><p>老妈昨晚就开始收拾东西了，我拿了信用卡以防万一。还拿了户口本，大锤的出生证，这次回去要去拿大锤的医保卡。  </p><p>早上老妈早早煮饭菜了。我去超市买了几个鸡蛋，煮了2个让老妈带在车上吃（后来通电话，才知道大锤在车上没吃）。10点多骑电驴送婆孙2人去火车站，出门前叫大锤跟妈妈说再见——大锤还不习惯主动表达，要大人教。火车站人一般多，还能找到可以走的通道。到候车大厅等了十来分钟，就可以进站了，因为是始发站，可以提前半小时进站。我跟大锤挥手后，看见他们走远，就回家了。  </p><p>晚上打电话，大锤在家里玩得很兴奋，因为家里有他两个表姐小时候的玩具，也有他的玩具，更有其它小朋友陪伴。  </p><p>其实前年我就计划着让大锤呆在老家，偶尔上南宁。这样可以节省大量时间，也省一些生活成本。但老婆不愿意，说留守儿童，说自卑等，总之有她的理论，所以大锤出生2个月的时候就一直在南宁了，只有过年过节偶尔回家。现在生活成本上升了，房租水电网费每个月要2千，每个月给老妈2千，因为除了伙食费，老妈日常要也买点药，水果，衣物什么的，对于吃我倒没什么高要求，但怕给老人、老婆造成没钱花的印象，所以伙食方面，由她们作主。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天老妈带大锤回老家了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="养娃记" scheme="http://blog.latelee.org/categories/child/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>李大锤成长记：教育点滴记录</title>
+    <link href="http://blog.latelee.org/child/%E6%9D%8E%E5%A4%A7%E9%94%A4%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%9A%E6%95%99%E8%82%B2%E7%82%B9%E6%BB%B4%E8%AE%B0%E5%BD%95.html"/>
+    <id>http://blog.latelee.org/child/李大锤成长记：教育点滴记录.html</id>
+    <published>2019-07-20T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="养娃记" scheme="http://blog.latelee.org/categories/child/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>计划二胎</title>
+    <link href="http://blog.latelee.org/life/%E8%AE%A1%E5%88%92%E4%BA%8C%E8%83%8E.html"/>
+    <id>http://blog.latelee.org/life/计划二胎.html</id>
+    <published>2019-07-19T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.705Z</updated>
+    
+    <content type="html"><![CDATA[<p>我在农村长大，读书期间接触大量传统的孝道等的灌输。我认为有两个小孩是十分普通正常的事情。也计划着在大锤一岁后开始要第二个小孩。但老婆有自己的想法，一旦激动，就抛出“我不是生育工具”的思想，我也顺从了。</p><a id="more"></a><p>年初，妹妹和妹夫带着外甥女来拜年，妹妹挺着大肚子，她已经是三胎了，因为农村的观念中一定要生男孩（前2个月终于如愿了）。老婆看到了，也想要二孩。于是着手准备，买了叶酸和钙片，不过不怎么吃，说是等怀上了再吃，我闻过味道，十分难闻。</p><p>以现代网络主流观点看，没有经济基础是不配有小孩的，好像没有在城里买房，年薪没有几十万，把小孩生出来是害了小孩，哪别说二孩了。网上也有大量观点说不能让小孩输在起跑线了，借钱买学区房，在学校门口通宵排队，然后得到结论：可怜天下父母心。</p><p>我没有能力在大锤出生给予一个很好的环境，但尽量满足，包括陪伴，玩耍，读书认物，伙食上也不会很差。我不会在小孩面前说没钱这些话，也不会在家人面前说累或辛苦。我知道，有些事是我必须要承受的。有些事也是老婆必须承受的，比如十月怀胎之苦，我不是女人，肯定无法深切体会到那种苦楚，但我会在我的能力内做到最好。</p><p>我能做的，白天上班，晚上陪小孩，读诗讲故事，教普通话白话，洗澡喂奶，从去年开始，我陪小孩的时间比老婆要多很多。如果有人付费咨询，哪怕再晚也处理。可以说，这些已经是我能做到的事了。至于他人评价或结果，我无法左右。</p><p>要二胎，只是想让大锤有一个弟弟或妹妹，等爸妈不在了，还有一个连着血的弟弟妹妹在，这是无法用金钱衡量的。或说，反目成仇的家庭也有很多，这不排除，但我希望我教育出来的小孩不会发生此事，我也会朝着这方向努力。</p><p>为了不重演当初的事，前期与老婆沟通好，怎么去医院，坐月子要吃什么东西，怎么带小孩。现在已经决定由我在老婆月子里给小孩洗澡——这个必须我来做。</p><p>如果小孩是女儿，起名大妞，如果还是男孩，就叫二锤。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我在农村长大，读书期间接触大量传统的孝道等的灌输。我认为有两个小孩是十分普通正常的事情。也计划着在大锤一岁后开始要第二个小孩。但老婆有自己的想法，一旦激动，就抛出“我不是生育工具”的思想，我也顺从了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活流水账" scheme="http://blog.latelee.org/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>李大锤成长记：这个期间的做事规则</title>
+    <link href="http://blog.latelee.org/child/%E6%9D%8E%E5%A4%A7%E9%94%A4%E6%88%90%E9%95%BF%E8%AE%B0%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%9C%9F%E9%97%B4%E7%9A%84%E5%81%9A%E4%BA%8B%E8%A7%84%E5%88%99.html"/>
+    <id>http://blog.latelee.org/child/李大锤成长记：这个期间的做事规则.html</id>
+    <published>2019-07-12T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.705Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录一下李大锤这段时期做事的规则。  </p><a id="more"></a><p>大锤有自己的一套行事规则，从书上看到的知识，这是“秩序敏感期”。即一定要按他自己的想法做，如果大人不配合，不遵守，结果就是哭闹。上个月借了本儿童心理学的书（社会学也涉及到一点相关的，但不多），看了书，了解一些知识点，在看他做事时，也能知道是为何了。  </p><p>下楼梯有个电子铁门，大锤刚会走路时，是让他自己拿钥匙开的，一来让他锻炼手的能力，二来让他听听“嘀”的声音。后来慢慢学会找不同的电子钥匙。有几次，为了快点下楼，我抱着他，自己开门，结果大锤就哭闹，起初还不知道，后来看了书才有点明白。现在已经2岁半多，可以站着举手拿钥匙开门，不过，已经不纠结是否一定要自己开门了。</p><p>晚上睡觉，一定是他自己关灯，如果大人关了，一定会哭（算是表示自己不满的“哭”，非真正意义的“哭”），接着边哭边跑过去，亲自去开灯，然后自己关灯，才肯睡觉。  </p><p>洗澡时，一定要自己先开一下水龙头，然后关水龙头，因为他看到到过我开水龙头放冷水。我放洗发水和沐浴露，也要分一点到他的手上，让他自己动手摸头和肚子。  </p><p>脾气也慢慢上来了。在外面玩，摔倒了，即使不疼，也会趴在地上，如果强行拉他起来，他会再找个地方趴着。有时候看到路不好走，抱着他走，等放他下来时，要自己走回去，从头再走一次那段路。在吃饭时，如果多个人同时教他怎么吃，会扔掉筷子。有一次他想撕借图书馆的书，我不给，就去拿买给他的书撕掉。从他脸部表情、嘴型、动作都可以看出他是在生气。  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录一下李大锤这段时期做事的规则。  &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="养娃记" scheme="http://blog.latelee.org/categories/child/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>语法：时态（可能态，过去态，主动被动态</title>
+    <link href="http://blog.latelee.org/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E6%B3%95%EF%BC%9A%E6%97%B6%E6%80%81%EF%BC%88%E5%8F%AF%E8%83%BD%E6%80%81%EF%BC%8C%E8%BF%87%E5%8E%BB%E6%80%81%EF%BC%8C%E4%B8%BB%E5%8A%A8%E8%A2%AB%E5%8A%A8%E6%80%81.html"/>
+    <id>http://blog.latelee.org/日语学习/语法：时态（可能态，过去态，主动被动态.html</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>各种态</p><a id="more"></a><h2 id="可能态"><a href="#可能态" class="headerlink" title="可能态"></a>可能态</h2><p>表示可能的方法及可能态</p><p>　　日语在表示主语有某种能力，有条件进行某种行为时，有以下几种方式：</p><p>　　1，直接用「できる」。</p><p>　　「私は日本語ができます。」“我会日语。”</p><p>　　「李さんは料理ができます。」“小李会做菜。”</p><p>　　这里主语用「は」表示，会的内容用「が」表示。</p><p>　　2，用「ことができる」。</p><p>　　「私は日本語を話すことができます。」</p><p>　　「李さんは料理を作ることができます。」</p><p>　　这里「日本語を話す」和「料理を作る」是能做的具体内容，用简体，是「こと」的定语，「話す」和「作る」是连体形。与上面不同的是具体内容的宾语用「を」，而不用「が」。</p><p>　　用这个方式可以把事情说得更具体一些，如：</p><p>　　「日本語を話すことができます。」“能讲日语。”</p><p>　　「日本語を書くことができません。」“不能写日语”</p><p>　　把这两句合在一起，用对比的形式表示，则为：</p><p>　　「日本語は話すことはできますが、書くことはできません。」</p><p>　　“日语能说但不能写。”</p><p>　　这里因为采用了对比方式，所以「日本語」作为主题提出，以「は」表示;「こと」后面的「が」以「は」表示。</p><p>　　3，可能态</p><p>　　① 形式为: 五段动词未然形+れる</p><p>　　其他动词未然形+られる</p><p>　　句型为：—-は—-が可能态动词。</p><p>　　「私は刺し身が食べられます。」“我能吃生鱼片。”</p><p>　　「明日は8時に来られます。」 “明天8点钟能来。”</p><p>　　五段动词的情况下,动词发生音变：</p><p>　　a.「読む」的未然形「よま」+「れる」变成「読まれる」。</p><p>　　b.其中「ま」和「れ」约音变成「め」。</p><p>　　c.于是「読まれる」变成「読める」</p><p>　　d.因此，在五段动词中动词变成可能态，不必要通过复杂的变化，可以直接把词尾的う段假名变成该行的え段假名，再加「る」就可以了。如：</p><p>　　「書く」的可能动词是「書ける」;</p><p>　　「遊ぶ」的可能动词是「遊べる」;</p><p>　　「走る」的可能动词是「走れる」等等。</p><p>　　「私は日本語の新聞が読めます。」“我能读日语报纸。”</p><p>　　「日曜日は休みだから、町へ行けます。」“星期日休息，所以能上街。”</p><p>　　这里说明一下什么是约音：用第一个假名的辅音和第二个假名的元音结合成新的假名。如：「ま」的发音是“ma”，其辅音是“m”，「れ」的发音是“re”，其元音是“e”，把“m”和“e”结合在一起，就成为“me”即「め」。关于约音的概念，不只限于可能动词，其他内容上提到的约音，都可以用此办法处理。</p><p>　　②サ变动词的可能态本来应该是「する」的未然形「し」加「られる」而构成。这时「し」和「ら」约音变成「さ」。因此，サ变动词的可能态应该是词干加「される」。但实际上基本不用这个形式，而用词干加「できる」的形式。如：「勉強できる」、「説明できる」等。</p><p>　　「図書館は静かだから良く勉強できます。」“图书馆很安静，能好好学习。”</p><p>　　「私はまだ日本語で論文が発表できません。」 “我还不能用日语发表论文。”</p><h2 id="被动态"><a href="#被动态" class="headerlink" title="被动态"></a>被动态</h2><p>　　当一个主体受到另外一个事物的动作时，就要用被动态。</p><p>　　形式为: 五段动词未然形+れる 其他动词未然形+られる</p><p>　　这个形式和可能态的基本形式相同，但五段动词没有约音变化。</p><p>　　サ变动词的被动态是「する」的未然形「し」加「られる」而构成。这时「し」和「ら」约音变成「さ」。因此，サ变动词的被动态是词干加「される」。 一段动词和カ变动词的形式，和可能态完全一样，因此必须从句子结构进行区别。</p><h2 id="被动态-1"><a href="#被动态-1" class="headerlink" title="被动态"></a>被动态</h2><p>被动态有4种类型：</p><p>　　1，在主动句中宾语是人或动物时：</p><p>　　主动句: 「先生が学生を褒めた。」“老师表扬了学生。” 被动句：「学生は先生に褒められた。」“学生被老师表扬了。”</p><p>　　在这一类被动句中，主动句的主语变成了补语，用「に」表示;主动句的宾语变成了主语，用「は」表示;动词变成了被动式(=未然形+られる)。</p><p>　　又如：主动句: 「猫が魚を食べてしまった。」“猫把鱼吃掉了。” 被动句：「魚は猫に食べられてしまった。」“鱼被猫吃掉了。”</p><p>　　2，在主动句中的宾语是带有以人做定语的事物时：</p><p>　　主动句: 「弟が私の時計を壊した。」“弟弟弄坏了我的表。” 被动句：「私は弟に時計を壊された。」“我被弟弟弄坏了表。”</p><p>　　在这一类被动句中，主动句的主语变成了补语，用「に」表示;主动句宾语的定语部分变成了主语，用「は」表示;宾语保留;动词变成了被动式(=未然形+れる)。</p><p>　　又如：主动句: 「バスの中で、隣の人が私の足を踏んだ。」 “在公共汽车里，旁边的人踩了我的脚。” 被动句：「バスの中で、私は隣の人に足を踏まれた。」 “在公共汽车里，我被旁边的人踩了脚。”</p><p>　　3，主动句的主语可以忽略，宾语是非人物时(多用于活动)：</p><p>　　主动句：「学校は8時から会議を開きました。」 “学校从8时起开会。” 被动句：「会議は8時から(学校によって)開かれました。」 “会议(由学校主持)从8时开始。”</p><p>　　在这一类被动句中，主动句的主语一般消失，如果一定需要，可用「によって」表示;主动句的宾语变成了主语，用「は」表示;动词变成了被动式(=未然形+れる)。</p><p>　　又如：主动句: 「いつ、何処で、誰が諺を作ったか、分かりません。」 “弄不清楚，在何时何地，谁创造了谚语。” 被动句：「諺は、いつ、何処で、誰によって作られたか、分かりません。」 “弄不清楚谚语是在何时何地，被谁创造的。”</p><p>　　4，自动词的被动式：</p><p>　　有部分自动词，可以用被动式表示，这种情况只用在主语受到损失的情况下，多用来说明后面动作或状态的原因。</p><p>　　主动句：「雨が降って、風邪を引いた。」“因为下雨了，所以感冒了。” 被动句：「雨に降られて、風邪を引いた。」“因为被雨淋了，所以感冒了。”</p><p>　　如果主语没有受到损失，就不能用自动词的被动式。如： 主动句：「雨が降って、木が青くなった。」“下雨了，树变绿了。”</p><p>　　又如：主动句：「友達が来て、楽しく遊んだ。」 “朋友来了，我们玩得很开心。” 被动句：「友達に来られて、宿題ができなかった。」 “朋友来了，害得我没有完成作业。”</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;各种态&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="日语学习" scheme="http://blog.latelee.org/categories/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>语法：常用用法</title>
+    <link href="http://blog.latelee.org/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E6%B3%95%EF%BC%9A%E5%B8%B8%E7%94%A8%E7%94%A8%E6%B3%95.html"/>
+    <id>http://blog.latelee.org/日语学习/语法：常用用法.html</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2020-06-16T02:57:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>常用用法</p><a id="more"></a><h2 id="杂记（待整理）"><a href="#杂记（待整理）" class="headerlink" title="杂记（待整理）"></a>杂记（待整理）</h2><p>有些汉字太难写了，故而写假名，如綺麗，通常写きれい（自注：可能针对初学者）。不过，汉字、假名如何取舍？有何依据？<br>字典简写<br>名：名词<br>副：副词<br>形：形容词<br>代：代词<br>数：数量词<br>连体：连体词，如こんな（这样的）<br>接尾：接尾词，如階（かい）、歳（さい）<br>接头：<br>五：五段动词<br>上一：上一段动词（又称I类动词）<br>下一：下一段动词（上一、下一，又称II类动词）<br>カ：カ动词，只有一个：来る，汉字写法一样，但不同活用读法不同。<br>サ：サ动词，动作名词后加する。（カ动词与サ动词又称为III类动词）。<br>自：自动词，即英文中的“不及物动词”，不用接宾语。<br>他：他动词，即“及物动词”，要接宾语。<br>自他：既是自动，又是他动。<br>形动：形容动词。有些看似名词，实际是形容动词。<br>简写可组合，如自下一、他上一、他五等等。</p><h2 id="敬语"><a href="#敬语" class="headerlink" title="敬语"></a>敬语</h2><p>敬语有3种，礼貌语，自谦语，尊他语。<br>老人、男人、女人、儿童用语</p><p>尊称：<br>「さん（San）」、「様（さま）」及「先生（せんせい）」<br>小孩：ちゃん</p><p>さん，君くん，ちゃん，様さま，殿 との， 氏し</p><h2 id="？？"><a href="#？？" class="headerlink" title="？？"></a>？？</h2><p>在连用形活用中，「では」 de wa经常缩略为「じゃ」 ja；一些非正式讲话中“じゃ”比“では”更适合。</p><p>二、日语不管次序，但动词一定要最后（肯定式、否定式，过去式属于助词）<br>［私は夜、家で日本语を勉强する］</p><p>变形：<br>　　私は家で日本语を夜、勉强する。<br>　　私は夜、日本语を家で勉强する。<br>　　私は日本语を夜、家で勉强する。<br>　　私は日本语を家で夜、勉强する。<br>　　日本语を夜，私は家で勉强する。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;常用用法&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="日语学习" scheme="http://blog.latelee.org/categories/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+</feed>
